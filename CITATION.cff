@@ -6,16 +6,19 @@ version: "0.0.1"
 license: "CC-BY-ND-4.0"
 repository: "https://github.com/ChewKeanHo/license-proprietary-1.0"
 repository-code: "https://github.com/ChewKeanHo/license-proprietary-1.0"
-repository-artifact: "https://github.com/ChewKeanHo/license-proprietary-1.0"
-url: "https://github.com/ChewKeanHo/license-proprietary-1.0"
+repository-artifact: "https://github.com/ChewKeanHo/license-proprietary-1.0/releases"
+url: "https://zenodo.org/doi/10.5281/zenodo.13767361"
 contact:
   - affiliation: "(Holloway) Chew, Kean Ho"
     email: "hello@hollowaykeanho.com"
     website: "https://www.hollowaykeanho.com"
 abstract: |-
   This is (Holloway) Chew, Kean Ho Proprietary License 1.0 repository for
-  product licensing. This is the most restrictive license offered by
-  (Holloway) Chew, Kean Ho where every rights are explicitly granted.
+  product licensing purposes.
+
+  This license is by far the **MOST RESTRICTIVE** among all published licenses
+  under (Holloway) Chew, Kean Ho where: (1) any right requires and explicit
+  written license grants.
 message: |-
   Please cite and reference this repository accordingly.
 authors:
@@ -24,6 +27,10 @@ authors:
     email: "hollowaykeanho@gmail.com"
     affiliation: "Independent"
     orcid: "https://orcid.org/0000-0003-4202-4863"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.13767361"
+    description: "General & Latest"
 keywords:
   - "Product"
   - "License"
