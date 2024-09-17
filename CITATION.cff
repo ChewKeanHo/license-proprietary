@@ -13,12 +13,23 @@ contact:
     email: "hello@hollowaykeanho.com"
     website: "https://www.hollowaykeanho.com"
 abstract: |-
-  This is (Holloway) Chew, Kean Ho Proprietary License 1.0 repository for
-  product licensing purposes.
+  A published proprietary license 1.0 for (Holloway) Chew, Kean Ho product
+  licensing purposes. This repository is version controlled using Semantic
+  Versioning definitions where:
 
-  This license is by far the **MOST RESTRICTIVE** among all published licenses
-  under (Holloway) Chew, Kean Ho where: (1) any right requires and explicit
-  written license grants.
+  1. the **MAJOR** version denotes legal changes where in this case, it is
+     locked to version 1. Any changes (e.g. 2) shall be in its own repository
+     for complying to SPDX identification standards.
+  2. the MINOR version denotes minor changes without altering the legal
+     implication side of things such as but not limited to grammar correction,
+     fonts, typo, and etc.
+  3. the PATCH version denotes the repository management changes such as but not
+     limited to new language addition, updating this README.md, and etc.
+
+  This license is by far the MOST RESTRICTIVE among all published licenses under
+  (Holloway) Chew, Kean Ho where:
+
+  1. any right requires and explicit written license grants.
 message: |-
   Please cite and reference this repository accordingly.
 authors:
