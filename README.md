@@ -38,6 +38,38 @@ https://doi.org/10.5281/zenodo.13767361
 
 
 
+## License Notice
+
+The following are the license notice within the supported languages:
+
+### English
+
+```
+Copyright (C) YEAR, Legal Name <EMAIL/CONTACTS>
+
+
+(Holloway) Chew, Kean Ho Proprietary License 1.0
+
+Licensed under (Holloway) Chew, Kean Ho Proprietary License (the “License”) for
+all the copyright holders above (the "Creators"); you may ONLY use this file
+except in compliance with the License. You may obtain a copy of the License at:
+
+                  https://doi.org/10.5281/zenodo.13767361
+
+All information contained herein is, and remains the property of the Creators
+and its suppliers, if any. The intellectual and technical concepts contained
+herein are proprietary to the Creators and are covered by the patent laws,
+patents in process; and are protected by trade secrets, and copyright laws of
+the Creators' country of operations and country of residences.
+
+Dissemination of this information or reproduction of this material is strictly
+forbidden unless prior written license grant is obtained from the corresponding
+Creators.
+```
+
+
+
+
 ## License
 
 This workspace and repository is published under
