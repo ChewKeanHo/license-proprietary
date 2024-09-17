@@ -14,6 +14,11 @@ purposes. This repository is version controlled using
 3. the `PATCH` version denotes the repository management changes such as but not
    limited to new language addition, updating this `README.md`, and etc.
 
+> **IMPORTANT NOTICE**
+>
+> This repository is archived does not means it's unmaintained but rather
+> locking its version development.
+
 
 
 

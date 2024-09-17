@@ -2,7 +2,7 @@ cff-version: "1.2.0"
 type: "software"
 date-released: "2024-09-16"
 title: "(Holloway) Chew, Kean Ho's Proprietary License 1.0"
-version: "0.0.2"
+version: "1.0.0"
 license: "CC-BY-ND-4.0"
 repository: "https://github.com/ChewKeanHo/license-proprietary-1.0"
 repository-code: "https://github.com/ChewKeanHo/license-proprietary-1.0"
@@ -20,11 +20,11 @@ abstract: |-
   1. the **MAJOR** version denotes legal changes where in this case, it is
      locked to version 1. Any changes (e.g. 2) shall be in its own repository
      for complying to SPDX identification standards.
-  2. the MINOR version denotes minor changes without altering the legal
+  2. the **MINOR** version denotes minor changes without altering the legal
      implication side of things such as but not limited to grammar correction,
      fonts, typo, and etc.
-  3. the PATCH version denotes the repository management changes such as but not
-     limited to new language addition, updating this README.md, and etc.
+  3. the **PATCH** version denotes the repository management changes such as but
+     not limited to new language addition, updating this README.md, and etc.
 
   This license is by far the MOST RESTRICTIVE among all published licenses under
   (Holloway) Chew, Kean Ho where:
