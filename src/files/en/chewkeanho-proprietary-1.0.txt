@@ -1,0 +1,407 @@
+(Holloway) Chew, Kean Ho’s Proprietary License 1.0
+Covering all terms and conditions for this license
+
+ID:
+chewkeanho-proprietary-1.0
+
+Version:
+v1.0.0
+
+By:
+(Holloway) Chew, Kean Ho
+legal@hollowaykeanho.com
+
+For:
+Legal Entities Procuring Product subjected to this License
+
+Effective from:
+Friday 19 April 2024
+
+Available at:
+https://doi.org/10.5281/zenodo.13767361
+
+--------------------------------------------------------------------------------
+This Agreement is made on the date and time stipulated by any of the action
+specified in Section 2 of this License:
+
+BETWEEN
+    1. (Holloway) Chew, Kean Ho (Business Reg. No: 202403160286) of
+       Seri Kembangan, Malaysia (hereinafter refers as “HOLLOWAY”)
+AND
+    1. YOU, where you’re a legally liable entity of whatsoever description
+       including but not limited to an individual, a group of individuals, a
+       sole proprietorship, a partnership, a body corporate, governmental bodies
+       and agencies, or otherwise of any kind established under the laws, rules
+       and/or regulations for the time being in force and which may come into
+       force authorized to use one or more (Holloway) Chew, Kean Ho’s Products
+       subjected to these Terms and Conditions herein (hereinafter referred as
+       “CLIENT”)
+
+(CLIENT shall be collectively referred to as “Receiving Parties”)
+(HOLLOWAY, and the Receiving Parties shall be collectively referred to as
+ “Parties”)
+
+WHEREAS:
+    A. The Receiving Parties are desirous of appointing HOLLOWAY for one or more
+       Products (as defined in this License). At the request of the Receiving
+       Parties, HOLLOWAY agrees to provide the service of the Product to the
+       Receiving Parties upon the terms and subject to the conditions set out in
+       this License.
+
+NOTE THE PARTIES ARE AGREED as follows:
+
+
+1 Definitions
+  1.1 Words importing the singular number includes the plural number and vice
+      versa.
+  1.2 Words importing the masculine gender including feminine.
+
+"Account" means an identifiable and manageable context data container offering
+one or more Services such as but not limited to Payment report, License Grant,
+PII references, and Services for You identified as being You to interact with
+Us directly and indirectly via Our User Interfaces.
+
+"Authentication Credentials" means any confidential and uniquely identifiable
+information which is a part of PII with access authorization capability such as
+but not limited to username, email addresses, phone numbers, passwords,
+2-factor authentication token and its generator.
+
+"Crypto", "Cryptography", "Cryptographic", "Cryptograpically" means the use of
+one or more cryptographic algorithms such as but not limited to AES-256,
+ChaCha20-Poly1305, HMAC, Argon-2i, CAMELLIA, and SHASUM to mutate or seal a
+given data for achieving one or more, single or combination purposes such as but
+not limited to confidentiality, integrity, authenticity, availability, and
+non-repudiation.
+
+"Content" means a literary or artistic property (such as but not limited to a
+book, title, writing, artwork, images, movie, website, software, or musical
+composition) that is capable of being printed, copied, sold, licensed,
+distributed, transformed to another medium, translated, recorded or performed or
+otherwise use (or not use) and to give it to another by will; and is governed by
+Copyrights laws of Yours and Ours country of operations and country of
+residences.
+
+"Fair Use" means the Copyright Acts’ Fair Use governing laws definitions of
+Yours and Ours country of operations and country of residences.
+
+"License" means the terms and conditions designated in this document agreed by
+both You and Us.
+
+"Grant" means the specific right permitted and granted by Us with specific
+details such as but not limited to the type of ability, its effective periods,
+its limitations and scopes, and Payment details strictly in written document.
+
+"Notice" means all official bill statements, receipts, notices, requests,
+notice of demands, writ of summons, all other legal processes and/or other
+communications/documents.
+
+"Payment" means a monetary transactional financial payable amount through any
+facilitated Payment Method.
+
+"Payment Method" means one or more facilitated official financial monetary
+exchange channels such as, but not limited to: (i) bank transfer;
+(2) e-wallet transfer; (3) credit card charging transfer; (4) cash transfer.
+
+"PDPA" means Yours and Ours country of operations’ and country of residences’
+personal data protection laws such as but not limited to
+Malaysia’s Personal Data Protection Act 2010.
+
+"PII" means any personal identifiable information that can distinguish or trace
+back to an individual's identity, either alone or when combined with other
+personal or identifiable information that is linked or linkable to a specific
+individual, such as but not limited to biodata, behavioral data, biometric data,
+and health data that are protected by PDPA.
+
+"Procure" means the action of obtaining a Product either though the means of
+Purchase or provided freely by Us.
+
+"Purchase" means the action of obtaining a Product via the means of performing
+one or more Payment.
+
+"Product" means a purchasable tangible or intangible serviceable goods (not to
+be confused with Service) such as but not limited to physical products (example:
+software, computing devices, and clothing) and packaged services (example: data
+processing services, content creation services, and repair services) offered by
+Us.
+
+"Sensitive Data" means information that is protected against unwarranted
+disclosure such as but no limited to PII, Authentication Credentials, or
+financial data.
+
+"Service" means the required customer services offered by Us in order to deliver
+a procured Product such as but not limited to logistics, concierge, and etc.
+
+"User Interface" means the end-user interactive facilities designed for You to
+communicate with the Product and/or Service such as but not limited to web
+application; web app; mobile app; books; manuals; smart devices; and Our
+Web Portal.
+
+"Web Portal" means any browse-able Content platforms accessible under the domain
+name hollowaykeanho.com alongside with all its paths
+(e.g. www.hollowaykeanho.com/about) and subdomains
+(e.g. legal.hollowaykeanho.com) of any kinds; or any approved third party
+domains with verifiable back-linking directly from hollowaykeanho.com.
+
+"You", "Yours" means the Receiving Parties.
+
+"We", "Us", "Our" means HOLLOWAY and any of its subsidiaries, affiliates, or
+successors.
+
+
+2 License Assignment, Ratification, and Tenure
+  2.1 This License shall be ratified by You, be effective, and be in-force until
+      terminated according to these Terms and Conditions starting from the
+      explicitly specified actions such as but not limited to:
+        2.1.1 fulfilling checkbox in web form submission from any of Our
+              supported User Interfaces; OR
+        2.1.2 procuring the Product from any source be it directly from Ours or
+              a third-party Entity regardless of Ours’ authorizations; OR
+        2.1.3 using any part of the Content from the Procured Product by any
+              means regardless of any of Our License Grant status with You; OR
+        2.1.4 actively or passively reading, analyzing, or reverse engineering
+              the Product; OR
+        2.1.5 performing Payment upon any Product procurement; OR
+        2.1.6 delivering formal written Notice referencing to this License
+              signed by You to Us; OR
+        2.1.7 agreement upon any other Product or Service level Terms and
+              Conditions extended from this License specified therein.
+  2.2 You are not permitted to assign or novate any or parts of their rights and
+      obligations under the License to any party without Ours’ written approval.
+  2.3 We may assign or novate all or parts of the License to any third party by
+      written notice without prior consent from You and You shall agree to make
+      all subsequent payments (if applicable) and commitment to Us as instructed
+      in such further notice.
+
+
+3 License Suspension & Termination
+  3.1 You may at any time terminate the License by the following actions:
+        3.1.1 deleted your Account with Us and purged by removing all the
+              Procured Product in possession from Your ecosystem with the
+              absolute intention to refrain from using the Product and move on.
+  3.2 We reserves the right to cancel, withdraw, terminate, or suspend the
+      License for any reason whatsoever at its sole discretion by the way of a
+      written notice to You and You agree that We shall not be liable for such
+      cancellation, withdrawal, termination, and suspension.
+
+
+4 Our Rights
+  4.1 We reserves the right to make any alteration or suspending of the License
+      which shall affect any parts of Products without prior notice to You and
+      We shall not be liable for any loss or inconvenience to You resulting
+      therefrom.
+  4.2 We reserves the right at its absolute discretion to vary, add, or
+      otherwise amend any part of the Terms of Conditions of the License such
+      that:
+        4.2.1 You may or may not be given written notice of such amendments; OR
+        4.2.2 Your continued use of Products after the effective date of the
+              variation, changes, or amendments to the Terms and Conditions of
+              the License and the same shall constitute an unconditional
+              acceptance of such variation, changes or amendments by You.
+  4.3 In order to protect You and Us from transactions and identity fraud, We
+      reserves the right, at its absolute discretion, not to communicate through
+      any suspicious channels or to ship goods to certain addresses.
+  4.4 We reserves the right to refuse any permission to use the Products to any
+      individual or company for any reason, and may do so without Notice.
+  4.5 We reserves the right to review Your conducts and Contents on compliance
+      with all applicable Terms and Conditions detailed in this License from the
+      usage of the Products.
+  4.6 In lieu with Clause 4.5, where any violation is found, we reserve the
+      right to perform any countermeasures, with or without prior Notice, with
+      or without permission from You, such as but not limited to:
+        4.6.1 deleting the subjected Contents belonging to You from our Products
+              with or without Notice; AND
+        4.6.2 ceasing, suspending, and deleting Your Account and its access to
+              our Products definitely or indefinitely; AND
+        4.6.3 cooperating with local enforcement for any Rules of Laws breaches
+              committed by You.
+
+
+5 Your Rights & Responsibilities
+  5.1 You SHALL:
+        5.1.1 In the absent of any License Grant provisioned by Us to You, You
+              SHALL NOT AND WILL NOT utilize the Products in any means such as
+              but not limited download, read, preview, analyze, reverse
+              engineer, and attack the licensing mechanism until the said
+              License Grant herein is obtained from Us.
+        5.1.2 agree and ratify that the use of Our Products SHALL NOT be
+              contributed to destruction in any form, any kind, or any
+              consequences such as but not limited to weaponizing the Product
+              both in the Internet and in the physical interactions with the
+              society anywhere in the world with or without malicious intent
+              resulting in death of any living or any property damage or harm to
+              oneself of You, Yours and others.
+        5.1.3 agree and ratify that the use of Our Product SHALL BE BOUNDED
+              WITHIN the Granted License’s specification such as but not limited
+              to its use authorities, time-frame, and deployment scope ONLY; AND
+        5.1.4 Contact Us for License Grant’s amendment or extension request in
+              the case of any unspecified justification and uncertainties; AND
+        5.1.5 provide accurate and complete PII to Us and inform Us immediately
+              of any changes to Your’ PII including electronics and physical
+              addresses and/or employment or business; AND
+        5.1.6 only use the Products for its specified purposes; AND
+        5.1.7 complies to all Notices and the instructions within provided by
+              Us; AND
+        5.1.8 be responsible for all equipment and assets necessary to use the
+              Procured Products and for the security and integrity of all
+              information data transmitted, disclosed, and/or obtained via the
+              use of Ours’ Products; AND
+        5.1.9 agrees, consents, allows and has no objections to Us in extracting
+              PII or any other data required to be used as evidence in court
+              when necessary; AND
+       5.1.10 be responsible for all usage and charges for the Procured
+              Products, including to payment and service charges and any related
+              charges related to Us pursuant to this License in a timely
+              manner; AND
+       5.1.11 be responsible for protecting any Authentication Credentials such
+              as but not limited to username, passwords, 2-factor authentication
+              token and its generator at all times and not releasing to other
+              entities such as third-party or any person; AND
+       5.1.12 notify Us immediately for any unauthorized usage and/or access to
+              Your PII and Authentication Credentials and all its
+              activities; AND
+       5.1.13 notify Us immediately for any compromised
+              Authentication Credentials; AND
+       5.1.14 comply with all applicable laws of Yours’ and Ours’ country of
+              operations and residences related to the use of the
+              Procured Products; AND
+       5.1.15 take responsible steps to prevent fraudulent, improper, or illegal
+              use of the Procured Products; AND
+       5.1.16 cease to utilize the Products as may be required by Us; AND
+       5.1.17 indemnify and shall keep Us indemnified from any loss, damage,
+              liability or expense arising from any claims from libel, privacy
+              and/or copyright infringement, patent, breach of confidence, or
+              breach of any law or regulations whatsoever arising from data
+              transmitted, received or stored via the Products or part thereof
+              and for all claims arising from Your unauthorized use or
+              exploitation of the Products; AND
+       5.1.18 If You are below 18 years old, that You shall require Your parent
+              or legal guardian’s permission to use any Ours’ Products; AND
+       5.1.19 Comply with the terms and conditions of this License.
+  5.2 You SHALL NOT:
+        5.2.1 bypass, remove, deactivate, impair, descramble, decipher, compile,
+              disassemble, or reverse engineer any part or forms of the Ours’
+              Products; AND
+        5.2.2 Use, display, mirror or frame any individual elements or whole
+              User Interfaces and its contents, Our name, any of Our trademarks,
+              logos, or other proprietary information without Our written
+              consent; AND
+        5.2.3 Attempt to probe, scan, breach, or test any vulnerability
+              including security or authentication measures of Our systems or
+              network communications without explicit written approval; AND
+        5.2.4 Attempt to interfere with Us and Our customers from proper use and
+              actions such as sending malware, ransomware, overloading,
+              flooding, spamming, or mailbombing; AND
+        5.2.5 Collect and/or store any Sensitive Data from any Our assets
+              without written approval; AND
+        5.2.6 Impersonate or misrepresent any person or entity including Us; AND
+        5.2.7 Create, recreate, distribute, or advertise index of any
+              significant portion of the Products without Ours’ written
+              approval.
+
+
+6 Risks and Warranty
+  6.1 In the absent of any License Grant provisioned by Us, the Product shall be
+      "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either
+      express or implied, including, without limitation, any warranties or
+      conditions of MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You’re
+      solely responsible for all the risks associated with your prohibited use.
+  6.2 In the presence of one or more License Grant provisioned by Us, the
+      Product’s warranties and risks coverage shall only comply to the terms and
+      conditions specified in the provisioned License Grant.
+  6.3 We shall not be liable to You or anyone else for any direct, indirect,
+      special, exemplary, and consequential types of losses, injury, damages or
+      whatsoever including but not limited to lost of use, data, revenue or
+      profits, in actions of contract, negligence or other actions arising out
+      or in connection with the use of Products.
+  6.4 We shall not be responsible or liable to any link redirecting to any third
+      party’s Content which is clicked/activated by You from any User Interfaces
+      provided by Us.
+  6.5 We shall not be liable, and You agree to indemnify Us against all claims,
+      losses, liabilities, proceedings, demands, costs, and expenses, including
+      legal fees which may result or which We may sustain in connection with or
+      arising from the Products used by You.
+  6.6 Without prejudice to the forgoing, in the event of a court or tribunal
+      holds Us liable for any breach or default by Us, You agree that the amount
+      damages payable by Us to You shall not at any time exceed the sum of
+      USD300.00 notwithstanding any order, decree, or judgment obtained by You.
+  6.7 Without limiting the generality of any provision in this License, We shall
+      not be liable for any failure to perform its obligations herein caused by
+      an act of God; insurrection or civil disorder; military operations; act of
+      terrorism; emergency; acts or omission of Government or any competent
+      authority; labor trouble or industrial disputes of any kind; fire;
+      lightning destruction; subsidence; explosion; floods; acts of omission of
+      persons or bodies; or any other form of force majeure for whom We has no
+      control over or any cause outside Our reasonable control.
+  6.8 The Products and Services may occasionally be affected by interference
+      caused by objects beyond Our control such as radio interference, room
+      temperature fluctuation, power disruptions, and weather conditions. In the
+      event of such interference, We shall not hold liable for any inability to
+      use or access the affected Products.
+
+
+7 License Grants
+  7.1 You acknowledge to contact Us made available in the last section of this
+      License directly for Procuring any of Your desired License Grant from Us.
+  7.2 We can provision one or more License Grant in written format under a
+      single Procurement by You either by the mean of chargeable Payment of
+      0 (free) or a specified amount of Payment at Ours’ sole discretion.
+  7.3 You agree and ratify to provide Us the required information such as but
+      not limited to basic PII governed by PDPA from both Ours and Yours country
+      of operations or residences for creating Your Account managing
+      Your Procurement and use such as but not limited to Payment,
+      License Grant, the list of requested rights, the number of use, the
+      deployment scope, and the required timeline of use.
+  7.4 Under this License, we provide the following procurable itemized rights
+      that serves Your desired intent of using the Product:
+      7.4.1 **Personal Use Right** – authorizing the ability to use the Product
+            for non-commercial deployment; AND
+      7.4.2 **Commercial Use Right** – authorizing the ability to use the
+            Product for commercial deployment involving monetary gains in any
+            kind and forms; AND
+      7.4.3 **Representation Right** – authorizing the ability to review and
+            market the Product as Our associated marketing affiliation,
+            representing or on behalf of Us outside the Fair Use defined by
+            copyright laws of Yours and Ours country of operations and country
+            of residences; AND
+      7.4.4 **Editing, Update, and Remastering Right** – authorizing the ability
+            to edit, update, and enhance the existing Product; AND
+      7.4.5 **Derivative, and Remix Right** – authorizing the ability to create
+            a new derivative version of the Product through any means not
+            limited to references or remixes; AND
+      7.4.6 **Patent Right** – authorizing the ability to use Our patented
+            intellectual properties of all or parts of the Product; AND
+      7.4.7 **Distribution Right** – authorizing the ability to perform
+            logistical delivery of the Product to one or more third-party
+            entity; AND
+      7.4.8 **Redistribution Right** – authorizing the ability to retail and
+            to resell the Product to one or more third-party entity; AND
+      7.4.9 **Miscellaneous Right** – authorizing the ability not covered under
+            the common rights of the License Grant usually discovered along the
+            deployment timeline that are rectifiable by Us.
+
+
+8 Delivery and Acceptance
+  8.1 We shall provision a Cryptographically signed, offline readable and
+      deployable, written License Grant document usually in the common an
+      deployable formats such as but not limited to PDF with ASC certificate
+      that can are transmittable via various online networks and channels upon
+      Your successful Procurement of License Grant.
+  8.2 We shall deliver Your procured License Grant via online transfer such as
+      but not limited to:
+        8.2.1 make it available on Our Web Portal for directly download; OR
+        8.2.2 send by email transaction; OR
+        8.2.3 send by instant messaging such as but not limited to
+              Google Messages, Signal Messenger, Telegram Messenger, or
+              Whatsapp Messenger.
+  8.3 Your License Grant shall be in effect as specified therein.
+
+
+9 Payment Terms
+  9.1 Payment can be done through Our specified and available Payment Methods
+      offered via Our supported User Interfaces such as but not limited to
+      Web Portal.
+
+
+10 Contact and Support
+  10.1 We are reachable via the following channels:
+         10.1.1 Email: hello@hollowaykeanho.com
