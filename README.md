@@ -1,33 +1,137 @@
-# (Holloway) Chew, Kean Ho's Proprietary License 1.0
+# (Holloway) Chew, Kean Ho's Proprietary License
 
-A published proprietary license 1.0 for
+A published proprietary license targeting commerical and sole proprietor for
 [(Holloway) Chew, Kean Ho](https://github.com/ChewKeanHo) product licensing
-purposes. This repository is version controlled using
-[Semantic Versioning](https://semver.org/) definitions where:
+purposes. This license was adopted from the
+[Open Source Initiative's Apache 2.0 License](https://opensource.org/license/apache-2-0)
+and [Creative Common Licenses](https://creativecommons.org/)
+as its baseline and applied the following changes:
 
-1. the `MAJOR` version denotes legal changes where in this case, it is locked to
-   version `1`. Any changes (e.g. `2`) shall be in its own repository for
-   complying to SPDX standards.
+1. Changed `Software` to `Product` so that the license can be expanded to
+   non-software product licensing usage (e.g. graphics, video, manufacturing
+   design, etc) without needing to spin multiple licenses; AND
+2. Added license assignment, ratification, and tenure section to specify when
+   and how is the license applied; AND
+3. Added version controlled clauses for which version shall be in effect by
+   default; AND
+4. Replaced all open-source and sharing clauses with lockdown clauses to seal
+   the proprietary exclusivity; AND
+5. Framework all the rights based on Creative Common definitions for
+   communications inter-compatibility purposes.
+
+This repository was formerly known as
+`(Holloway) Chew, Kean Ho's Proprietary License` but was renamed for
+consistency purposes.
+
+
+
+
+## Version Controlled
+
+This repository is version controlled using
+[semantic versioning](https://semver.org/) definitions where:
+
+1. the `MAJOR` version denotes major legal changes; AND
 2. the `MINOR` version denotes minor changes without altering the legal
    implication side of things such as but not limited to grammar correction,
-   fonts, typo, and etc.
-3. the `PATCH` version denotes the repository management changes such as but not
-   limited to new language addition, updating this `README.md`, and etc.
-
-> **IMPORTANT NOTICE**
->
-> This repository is archived does not means it's unmaintained but rather
-> locking its version development.
+   fonts, typo, and etc; AND
+3. the `PATCH` version denotes the repository management changes such as but
+   not limited to new language addition, updating `README.md`, and etc.
 
 
 
 
 ## License Nature
 
-This license is by far the **MOST RESTRICTIVE** among all published licenses
-under `(Holloway) Chew, Kean Ho` where:
 
-1. any right requires and explicit written license grants.
+To use this license for your product licensing, you **MUST**, in layman terms,
+consider the following as your recipient perpectives:
+
+1. You're only allowed to use for personal deployment as long as you:
+   1. **SHALL** procure either given by or purchase the license grant from the
+      copyright owner in written document; AND
+   2. **SHALL** only use within the specified terms and conditions inside your
+      grant; AND
+   3. **SHALL** retain the copyright notices and effects of the product you use,
+      be it in its raw form (e.g. source codes) or its produced form (compiled
+      software binary files); AND
+   4. **SHALL NOT** use the creators' name, brand, and trademark without their
+      written notices for any endorsement of your pursue; AND
+   5. **SHALL NOT OWN** any copy of the Product by deleting them all from your
+      posession if you do not have any procured the license grant; AND
+2. You're only allowed to use for commercial deployment as long as you:
+   1. **SHALL** procure either given by or purchase the license grant from the
+      copyright owner in written document; AND
+   2. **SHALL** only use within the specified terms and conditions inside your
+      grant; AND
+   3. **SHALL** retain the copyright notices and effects of the product you use,
+      be it in its raw form (e.g. source codes) or its produced form (compiled
+      software binary files); AND
+   4. **SHALL NOT** use the creators' name, brand, and trademark without their
+      written notices for any endorsement of your pursue; AND
+   5. **SHALL NOT OWN** any copy of the Product by deleting them all from your
+      posession if you do not have any procured the license grant; AND
+3. You're only allowed to edit/modify as long as you:
+   1. **SHALL** procure either given by or purchase the license grant from the
+      copyright owner in written document; AND
+   2. **SHALL** only use within the specified terms and conditions inside your
+      grant; AND
+   3. **SHALL** retain the copyright notices and effects of the product you use,
+      be it in its raw form (e.g. source codes) or its produced form (compiled
+      software binary files); AND
+   4. **SHALL NOT** use the creators' name, brand, and trademark without their
+      written notices for any endorsement of your pursue; AND
+   5. **SHALL NOT OWN** any copy of the Product by deleting them all from your
+      posession if you do not have any procured the license grant; AND
+4. You're only allowed to remix/remaster as long as you:
+   1. **SHALL** procure either given by or purchase the license grant from the
+      copyright owner in written document; AND
+   2. **SHALL** only use within the specified terms and conditions inside your
+      grant; AND
+   3. **SHALL** retain the copyright notices and effects of the product you use,
+      be it in its raw form (e.g. source codes) or its produced form (compiled
+      software binary files); AND
+   4. **SHALL NOT** use the creators' name, brand, and trademark without their
+      written notices for any endorsement of your pursue; AND
+   5. **SHALL NOT OWN** any copy of the Product by deleting them all from your
+      posession if you do not have any procured the license grant; AND
+5. You're only allowed to distribute as long as you:
+   1. **SHALL** procure either given by or purchase the license grant from the
+      copyright owner in written document; AND
+   2. **SHALL** only use within the specified terms and conditions inside your
+      grant; AND
+   3. **SHALL** retain the copyright notices and effects of the product you use,
+      be it in its raw form (e.g. source codes) or its produced form (compiled
+      software binary files); AND
+   4. **SHALL NOT** use the creators' name, brand, and trademark without their
+      written notices for any endorsement of your pursue; AND
+   5. **SHALL NOT OWN** any copy of the Product by deleting them all from your
+      posession if you do not have any procured the license grant; AND
+6. You're only allowed to re-distribute as long as you:
+   1. **SHALL** procure either given by or purchase the license grant from the
+      copyright owner in written document; AND
+   2. **SHALL** only use within the specified terms and conditions inside your
+      grant; AND
+   3. **SHALL** retain the copyright notices and effects of the product you use,
+      be it in its raw form (e.g. source codes) or its produced form (compiled
+      software binary files); AND
+   4. **SHALL NOT** use the creators' name, brand, and trademark without their
+      written notices for any endorsement of your pursue; AND
+   5. **SHALL NOT OWN** any copy of the Product by deleting them all from your
+      posession if you do not have any procured the license grant; AND
+7. You're only allowed to perform any miscellaneous rights not mentioned above
+   as long as:
+   1. **SHALL** procure either given by or purchase the license grant from the
+      copyright owner in written document; AND
+   2. **SHALL** only use within the specified terms and conditions inside your
+      grant; AND
+   3. **SHALL** retain the copyright notices and effects of the product you use,
+      be it in its raw form (e.g. source codes) or its produced form (compiled
+      software binary files); AND
+   4. **SHALL NOT** use the creators' name, brand, and trademark without their
+      written notices for any endorsement of your pursue; AND
+   5. **SHALL NOT OWN** any copy of the Product by deleting them all from your
+      posession if you do not have any procured the license grant.
 
 
 
@@ -50,10 +154,8 @@ The following are the license notice within the supported languages:
 ### English
 
 ```
-Copyright (C) YEAR, Legal Name <EMAIL/CONTACTS>
+Copyright [YEAR] [FULL_LEGAL_NAME] [CONTACT_LIKE_EMAIL_ADDRESS]
 
-
-(Holloway) Chew, Kean Ho Proprietary License 1.0
 
 Licensed under (Holloway) Chew, Kean Ho Proprietary License (the “License”) for
 all the copyright holders above (the "Creators"); you may ONLY use this file
