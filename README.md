@@ -130,7 +130,7 @@ consider the following as your recipient perpectives:
    5. **SHALL NOT OWN** any copy of the Product by deleting them all from your
       posession if you do not have any procured license grant; AND
 7. You're only allowed to perform any miscellaneous rights not mentioned above
-   as long as:
+   as long as you:
    1. **SHALL** procure either given by or purchase the license grant from the
       copyright owner in written document; AND
    2. **SHALL** only use within the specified terms and conditions inside your
