@@ -30,7 +30,7 @@ as its baseline and applied the following changes:
 13. Added judiciary minimal damage values limitation of liability.
 
 This repository was formerly known as
-`(Holloway) Chew, Kean Ho's Proprietary License` but was renamed for
+`(Holloway) Chew, Kean Ho's Proprietary License 1.0` but was renamed for
 consistency purposes.
 
 
