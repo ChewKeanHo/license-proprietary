@@ -1,6 +1,6 @@
 cff-version: "1.2.0"
 type: "software"
-date-released: "2024-09-23"
+date-released: "2024-09-24"
 title: "(Holloway) Chew, Kean Ho's Proprietary License"
 version: "2.0.0"
 license: "CC-BY-ND-4.0"
@@ -30,8 +30,17 @@ abstract: |-
       by default; AND
   (4) Replaced all open-source and sharing clauses with lockdown clauses to
       seal the proprietary exclusivity; AND
-  (5) Framework all the rights based on Creative Common definitions for
-      communications inter-compatibility purposes.
+  (5) Framework all available rights based on Creative Common definitions for
+      communications inter-compatibility purposes; AND
+  (6) Added sensitive data coverage; AND
+  (7) Added license grant sales and purchase coverage; AND
+  (8) Added artifical intelligence training dataset usage clauses; AND
+  (9) Added trademark usage coverage; AND
+  (10) Added force manjure limitation of liability; AND
+  (11) Added Sensitive Data limitation of liability; AND
+  (12) Added global vendors (e.g. datacenter) Sensitive Data limitation of
+       liability; AND
+  (13) Added judiciary minimal damage values limitation of liability.
 
   This repository was formerly known as
   "(Holloway) Chew, Kean Ho's Proprietary License" but was renamed for
@@ -62,9 +71,8 @@ abstract: |-
       (1.4) **SHALL NOT** use the creators' name, brand, and trademark
             without their written notices for any endorsement of your
             pursue; AND
-      (1.5) **SHALL NOT OWN** any copy of the Product by deleting them all
-            from your posession if you do not have any procured the license
-            grant; AND
+      (1.5) **SHALL NOT OWN** any copy of the Product by deleting them all from
+            your posession if you do not have any procured license grant; AND
   (2) You're only allowed to use for commercial deployment as long as you:
       (2.1) **SHALL** procure either given by or purchase the license grant
             from the copyright owner in written document; AND
@@ -77,8 +85,7 @@ abstract: |-
             without their written notices for any endorsement of your
             pursue; AND
       (2.5) **SHALL NOT OWN** any copy of the Product by deleting them all from
-            your posession if you do not have any procured the license
-            grant; AND
+            your posession if you do not have any procured license grant; AND
   (3) You're only allowed to edit/modify as long as you:
       (3.1) **SHALL** procure either given by or purchase the license grant
             from the copyright owner in written document; AND
@@ -91,8 +98,7 @@ abstract: |-
             without their written notices for any endorsement of your
             pursue; AND
       (3.5) **SHALL NOT OWN** any copy of the Product by deleting them all from
-            your posession if you do not have any procured the license
-            grant; AND
+            your posession if you do not have any procured license grant; AND
   (4) You're only allowed to remix/remaster as long as you:
       (4.1) **SHALL** procure either given by or purchase the license grant
             from the copyright owner in written document; AND
@@ -105,8 +111,7 @@ abstract: |-
             without their written notices for any endorsement of your
             pursue; AND
       (4.5) **SHALL NOT OWN** any copy of the Product by deleting them all from
-            your posession if you do not have any procured the license
-            grant; AND
+            your posession if you do not have any procured license grant; AND
   (5) You're only allowed to distribute as long as you:
       (5.1) **SHALL** procure either given by or purchase the license grant
             from the copyright owner in written document; AND
@@ -119,8 +124,7 @@ abstract: |-
             without their written notices for any endorsement of your
             pursue; AND
       (5.5) **SHALL NOT OWN** any copy of the Product by deleting them all from
-            your posession if you do not have any procured the license
-            grant; AND
+            your posession if you do not have any procured license grant; AND
   (6) You're only allowed to re-distribute as long as you:
       (6.1) **SHALL** procure either given by or purchase the license grant
             from the copyright owner in written document; AND
@@ -133,8 +137,7 @@ abstract: |-
             without their written notices for any endorsement of your
             pursue; AND
       (6.5) **SHALL NOT OWN** any copy of the Product by deleting them all from
-            your posession if you do not have any procured the license
-            grant; AND
+            your posession if you do not have any procured license grant; AND
   (7) You're only allowed to perform any miscellaneous rights not mentioned
       above as long as:
       (7.1) **SHALL** procure either given by or purchase the license grant
@@ -148,8 +151,7 @@ abstract: |-
             without their written notices for any endorsement of your
             pursue; AND
       (7.5) **SHALL NOT OWN** any copy of the Product by deleting them all from
-            your posession if you do not have any procured the license
-            grant.
+            your posession if you do not have any procured license grant.
 message: |-
   Please cite and reference this repository accordingly.
 authors:

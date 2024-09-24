@@ -1,0 +1,21 @@
+Copyright [YEAR] [FULL_LEGAL_NAME] [CONTACT_LIKE_EMAIL_ADDRESS]
+
+
+Licensed under the (Holloway) Chew, Kean Ho’s Proprietary License
+(the "License"); you may not use this content except in compliance with the
+License. You may obtain a copy of the License at
+
+                  https://doi.org/10.5281/zenodo.13767361
+
+With the exception of one or more specific License grant (the “Grant”) procured
+by you directly from the copyright holders, all contents contained herein
+(the “Content”) shall and always remains as the property of the copyright
+holders and its suppliers, if any. The Content contained herein are proprietary
+to the copyright holders and are covered by the patent laws, patents in process,
+manufacturing and fabrication laws, design laws, trade secrets protections,
+copyright laws, and any other appropriate governing laws of yours and the
+copyright holders’ countries of operations and countries of residences.
+
+DISSEMINATION OR REPRODUCTION PART OF OR ALL OF THE CONTENT IS STRICTLY
+FORBIDDEN UNLESS ONE OR MORE WRITTEN GRANT IS PROCURED FROM THE CORRESPONDING
+COPYRIGHT HOLDERS.

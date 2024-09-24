@@ -15,9 +15,19 @@ as its baseline and applied the following changes:
 3. Added version controlled clauses for which version shall be in effect by
    default; AND
 4. Replaced all open-source and sharing clauses with lockdown clauses to seal
-   the proprietary exclusivity; AND
-5. Framework all the rights based on Creative Common definitions for
-   communications inter-compatibility purposes.
+   the proprietary exclusivity and uses overriding terms and conditions via
+   license grant issuance; AND
+5. Framework all available rights based on Creative Common definitions for
+   communications inter-compatibility purposes; AND
+6. Added sensitive data coverage; AND
+7. Added license grant sales and purchase coverage; AND
+8. Added artifical intelligence training dataset usage clauses; AND
+9. Added trademark usage coverage; AND
+10. Added force manjure limitation of liability; AND
+11. Added Sensitive Data limitation of liability; AND
+12. Added global vendors (e.g. datacenter) Sensitive Data limitation of
+    liability; AND
+13. Added judiciary minimal damage values limitation of liability.
 
 This repository was formerly known as
 `(Holloway) Chew, Kean Ho's Proprietary License` but was renamed for
@@ -58,7 +68,7 @@ consider the following as your recipient perpectives:
    4. **SHALL NOT** use the creators' name, brand, and trademark without their
       written notices for any endorsement of your pursue; AND
    5. **SHALL NOT OWN** any copy of the Product by deleting them all from your
-      posession if you do not have any procured the license grant; AND
+      posession if you do not have any procured license grant; AND
 2. You're only allowed to use for commercial deployment as long as you:
    1. **SHALL** procure either given by or purchase the license grant from the
       copyright owner in written document; AND
@@ -70,7 +80,7 @@ consider the following as your recipient perpectives:
    4. **SHALL NOT** use the creators' name, brand, and trademark without their
       written notices for any endorsement of your pursue; AND
    5. **SHALL NOT OWN** any copy of the Product by deleting them all from your
-      posession if you do not have any procured the license grant; AND
+      posession if you do not have any procured license grant; AND
 3. You're only allowed to edit/modify as long as you:
    1. **SHALL** procure either given by or purchase the license grant from the
       copyright owner in written document; AND
@@ -82,7 +92,7 @@ consider the following as your recipient perpectives:
    4. **SHALL NOT** use the creators' name, brand, and trademark without their
       written notices for any endorsement of your pursue; AND
    5. **SHALL NOT OWN** any copy of the Product by deleting them all from your
-      posession if you do not have any procured the license grant; AND
+      posession if you do not have any procured license grant; AND
 4. You're only allowed to remix/remaster as long as you:
    1. **SHALL** procure either given by or purchase the license grant from the
       copyright owner in written document; AND
@@ -94,7 +104,7 @@ consider the following as your recipient perpectives:
    4. **SHALL NOT** use the creators' name, brand, and trademark without their
       written notices for any endorsement of your pursue; AND
    5. **SHALL NOT OWN** any copy of the Product by deleting them all from your
-      posession if you do not have any procured the license grant; AND
+      posession if you do not have any procured license grant; AND
 5. You're only allowed to distribute as long as you:
    1. **SHALL** procure either given by or purchase the license grant from the
       copyright owner in written document; AND
@@ -106,7 +116,7 @@ consider the following as your recipient perpectives:
    4. **SHALL NOT** use the creators' name, brand, and trademark without their
       written notices for any endorsement of your pursue; AND
    5. **SHALL NOT OWN** any copy of the Product by deleting them all from your
-      posession if you do not have any procured the license grant; AND
+      posession if you do not have any procured license grant; AND
 6. You're only allowed to re-distribute as long as you:
    1. **SHALL** procure either given by or purchase the license grant from the
       copyright owner in written document; AND
@@ -118,7 +128,7 @@ consider the following as your recipient perpectives:
    4. **SHALL NOT** use the creators' name, brand, and trademark without their
       written notices for any endorsement of your pursue; AND
    5. **SHALL NOT OWN** any copy of the Product by deleting them all from your
-      posession if you do not have any procured the license grant; AND
+      posession if you do not have any procured license grant; AND
 7. You're only allowed to perform any miscellaneous rights not mentioned above
    as long as:
    1. **SHALL** procure either given by or purchase the license grant from the
@@ -131,7 +141,7 @@ consider the following as your recipient perpectives:
    4. **SHALL NOT** use the creators' name, brand, and trademark without their
       written notices for any endorsement of your pursue; AND
    5. **SHALL NOT OWN** any copy of the Product by deleting them all from your
-      posession if you do not have any procured the license grant.
+      posession if you do not have any procured license grant.
 
 
 
@@ -157,21 +167,24 @@ The following are the license notice within the supported languages:
 Copyright [YEAR] [FULL_LEGAL_NAME] [CONTACT_LIKE_EMAIL_ADDRESS]
 
 
-Licensed under (Holloway) Chew, Kean Ho Proprietary License (the “License”) for
-all the copyright holders above (the "Creators"); you may ONLY use this file
-except in compliance with the License. You may obtain a copy of the License at:
+Licensed under the (Holloway) Chew, Kean Ho’s Proprietary License
+(the "License"); you may not use this content except in compliance with the
+License. You may obtain a copy of the License at
 
                   https://doi.org/10.5281/zenodo.13767361
 
-All information contained herein is, and remains the property of the Creators
-and its suppliers, if any. The intellectual and technical concepts contained
-herein are proprietary to the Creators and are covered by the patent laws,
-patents in process; and are protected by trade secrets, and copyright laws of
-the Creators' country of operations and country of residences.
+With the exception of one or more specific License grant (the “Grant”) procured
+by you directly from the copyright holders, all contents contained herein
+(the “Content”) shall and always remains as the property of the copyright
+holders and its suppliers, if any. The Content contained herein are proprietary
+to the copyright holders and are covered by the patent laws, patents in process,
+manufacturing and fabrication laws, design laws, trade secrets protections,
+copyright laws, and any other appropriate governing laws of yours and the
+copyright holders’ countries of operations and countries of residences.
 
-Dissemination of this information or reproduction of this material is strictly
-forbidden unless prior written license grant is obtained from the corresponding
-Creators.
+DISSEMINATION OR REPRODUCTION PART OF OR ALL OF THE CONTENT IS STRICTLY
+FORBIDDEN UNLESS ONE OR MORE WRITTEN GRANT IS PROCURED FROM THE CORRESPONDING
+COPYRIGHT HOLDERS.
 ```
 
 
