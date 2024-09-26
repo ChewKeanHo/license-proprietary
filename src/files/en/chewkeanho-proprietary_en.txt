@@ -5,7 +5,7 @@ ID:
 chewkeanho-proprietary
 
 Version:
-v2.0.0
+v3.0.0
 
 Authored & Reviewed By:
 (Holloway) Chew, Kean Ho <legal@hollowaykeanho.com>
@@ -16,8 +16,8 @@ https://doi.org/10.5281/zenodo.13767361
 --------------------------------------------------------------------------------
 This agreement is made on the date and time whichever earliest either
 specifically stipulated or by the first execution of any designated action
-specified in the “Covenant Assignment, Ratification, and Tenure” section of
-this Covenant herein:
+specified in the “Covenant Assignment, Ratification, and Tenure” section
+of this Covenant herein:
 BETWEEN
   1. The principal Entity (as defined in this Covenant) providing one or
      more Products (as defined in this Covenant) and/or Services
@@ -30,18 +30,18 @@ BETWEEN
      involvement or authorizations hereinafter refers as “CONTRIBUTOR”
   3. Any Entity (as defined in this Covenant) providing Services
      (as defined in this Covenant) for delivering the values of the
-     Products (as defined in this Covenant) directly or indirectly,
-     with or without, independent or dependent of the PRINCIPAL’s and/or
+     Products (as defined in this Covenant) directly or indirectly, with
+     or without, independent or dependent of the PRINCIPAL’s and/or
      CONTRIBUTOR’s involvement or authorizations hereinafter refers as
      “CONCIERGE”
 (PRINCIPAL, CONTRIBUTOR, and CONCIERGE shall be collectively referred to
 as “Provisioning Parties”)
 AND
-  1. YOU, where you’re a legally liable Entity (as defined in this Covenant)
-     authorized to use one or more Provisioning Parties’ Products
-     (as defined in this Covenant) and/or Services
-     (as defined in this Covenant) subjected to these terms and conditions
-     herein hereinafter referred as “CLIENT”
+  1. YOU, where you’re a legally liable Entity
+     (as defined in this Covenant) authorized to use one or more
+     Provisioning Parties’ Products (as defined in this Covenant) and/or
+     Services (as defined in this Covenant) subjected to these terms and
+     conditions herein hereinafter referred as “CLIENT”
 (CLIENT shall be collectively referred to as “Receiving Parties”)
 
 (the Provisioning Parties and the Receiving Parties shall be collectively
@@ -51,11 +51,12 @@ WHEREAS:
   A. The Receiving Parties are desirous of appointing the
      Provisioning Parties for one or more of their Products
      (as defined in this Covenant) and/or Services
-     (as defined in this Covenant). At the request of the Receiving Parties,
-     the Provisioning Parties agrees to provide the values and services of
-     the Products (as defined in this Covenant) and/or Services
-     (as defined in this Covenant) to the Receiving Parties upon the terms
-     and subject to the conditions set out in this Covenant.
+     (as defined in this Covenant). At the request of the
+     Receiving Parties, the Provisioning Parties agrees to provide the
+     values and services of the Products (as defined in this Covenant)
+     and/or Services (as defined in this Covenant) to the
+     Receiving Parties upon the terms and subject to the conditions set
+     out in this Covenant.
 
 NOTE THE PARTIES ARE AGREED as follows:
 
@@ -72,9 +73,9 @@ NOTE THE PARTIES ARE AGREED as follows:
 
 "Account" means an identifiable and manageable context data container
 assigned for You that offers one or more automated or self-serviceable
-Services such as but not limited to financial management, licenses
-management, agreements management, biodata management; and the values of
-the Products directly and indirectly via Our User Interfaces.
+Services such as but not limited to financial management,
+licenses management, agreements management, biodata management; and the
+values of the Products directly and indirectly via Our User Interfaces.
 
 "Authentication Credentials" means any confidential and uniquely
 identifiable information with access authorization and authentication
@@ -82,48 +83,49 @@ capability such as but not limited to username, email addresses,
 phone numbers, passwords, 2-factor authentication token and its
 generator.
 
-"Author", "Creator" means the entities involving directly and indirectly
-towards the Content creation, modification, actualization, and realization
-such as but not limited to Us, the publishers, the inventors, the writers,
-the designers, the editors, the curator, and etc.
+"Creator" means the entities involving directly and indirectly towards
+the Product's Content creation, modification, actualization, and
+realization such as but not limited to Us, the Contributing Entities,
+the publishers, the inventors, the writers, the designers, the editors,
+the curator, and etc.
 
-"Content" means a literary, an appreciative value, or an artistic property
-(such as but not limited to a text, book, title, writing, artwork, images,
-movie, website, software, or musical composition) be it in its tangible
-and/or intangible physical form that is capable of being produced,
-reproduced, manufactured, printed, copied, sold, licensed, distributed,
-transformed to another medium, translated, recorded or performed or
-otherwise use (or not use) and to give it to another by will; and is
-governed by copyrights laws, manufacturing laws,
-intellectual properties laws, and other applicable governing laws of
-Yours and Ours countries of operations and countries of residences.
+"Content" means a literary, an appreciative value, or an artistic
+property (such as but not limited to a text, book, title, writing,
+artwork, images, movie, website, software, or musical composition) be it
+in its tangible and/or intangible physical form that is capable of being
+produced, reproduced, manufactured, printed, copied, sold, licensed,
+distributed, transformed to another medium, translated, recorded or
+performed or otherwise use (or not use) and to give it to another by will;
+and is governed by copyrights laws, manufacturing laws,
+intellectual properties laws, and other applicable governing laws of Your
+and Our countries of operations and countries of residences.
 
 "Contribute", "Contributing", "Contribution" means the action of producing
 or directly referring to the work of authorship, craftsmanship, goods, and
 services; including the original version of the Product or the Service and
 any modifications or additions to that Product, Service, Derived Product,
-or Derived Service thereof; that is intentionally submitted by the means
-of any form be it electronic, verbal, physical, or written communication
-such as but not limited to logistical goods delivery, communication on
-electronic mailing lists, source code control systems, and issue tracking
-systems to Us for inclusion into the Product or the Service by Us or by an
-Entity with submission authority for the work's owner rights with the sole
-purpose of discussing and improving the Product or the Service but excluding
+or Derived Service thereof; that is intentionally submitted by the means of
+any form be it electronic, verbal, physical, or written communication such
+as but not limited to logistical goods delivery, communication on electronic
+mailing lists, source code control systems, and issue tracking systems to Us
+for inclusion into the Product or the Service by Us or by an Entity with
+submission authority for the work's owner rights with the sole purpose of
+discussing and improving the Product or the Service but excluding
 communication that is conspicuously marked or otherwise designated in
-writing by Us as "not a contribution."
+writing by Us as "not a contribution".
 
 "Covenant" means the terms and conditions designated in this legally
 binding document which can be but not limited to a contract, license,
-agreement, terms and conditions, terms of use, or privacy policy agreed
-by You and Us.
+agreement, terms and conditions, terms of use, or privacy policy agreed by
+You and Us.
 
 "Crypto", "Cryptography", "Cryptographic", "Cryptograpically" means the
 use of one or more cryptographic algorithms such as but not limited to
 AES-256, ChaCha20-Poly1305, HMAC, Argon-2i, CAMELLIA, and SHASUM to mutate
 or seal a given data for achieving one or more, single or combination
-motive of securing its properties such as but not limited to
-confidentiality, integrity, authenticity, availability, non-repudiation,
-and uniqueness exclusivity.
+motive of security properties such as but not limited to confidentiality,
+integrity, authenticity, availability, non-repudiation, and uniqueness
+exclusivity.
 
 "Entity" means the union of the legally liable acting entity and all other
 entities that control, are controlled by, or are under common control with
@@ -132,29 +134,30 @@ cause the direction or management of such entity, whether by contract or
 otherwise, or (ii) ownership of fifty percent (50%) or more of the
 outstanding shares, or (iii) beneficial ownership of such entity such as
 but not limited to an individualistic natural person, a group of
-individualistic natural people, a sole proprietorship, a partnership,
-a corporate body, a governmental body or agency, or otherwise of any kind
-established under the laws, rules and/or regulations for the time being in
-force and which may come into force.
+individualistic natural people, a sole proprietorship, a partnership, a
+corporate body, a governmental body or agency, or otherwise of any kind
+established under the laws, rules and/or regulations for the time being
+in force and which may come into force.
 
 "Fair Use" means the "Fair Use" clauses of the applicable governing laws
-such as but not limited to copyright laws from Yours and Ours' countries
-of operations and countries of residences.
+such as but not limited to copyright laws from Your and Our countries of
+operations and countries of residences.
 
 "Grant" means the specific and exclusive terms and conditions such as but
 not limited to use rights, the type of ability, its effective periods,
 its limitations and scopes, its conditions of use, its prohibitions,
 its overriding terms and conditions, its amending terms and conditions,
 and Your Payment details approved and permitted by Us for You delivered
-strictly in written format.
+strictly in written and self-verifiable format.
 
-"Interface", "Interfacing" means the action of interacting with or directly
-referring to an interactive control surfaces offered by a Product or
-a Service, regardless of its design intention, externally made available
-for its users to use and to control the Product's or the Service's
-operations itself with or without revealling its internal operating
-mechanisms such as but not limited to control buttons hardware panels,
-controller, User Interfaces, application programmable interfaces (API),
+"Interface", "Interfacing" means the action of interacting with or
+directly referring to an interactive control surfaces offered by
+a Product or a Service, regardless of its design intention, externally
+made available for its users to use and to control the Product's or
+the Service's operations itself with or without revealing its internal
+operating mechanisms such as but not limited to control buttons hardware
+panels, controller, User Interfaces,
+application programmable interfaces (API),
 application binary interface (ABI), and piping valves controls.
 
 "Notice" means all official bill statements, receipts, notices, requests,
@@ -170,7 +173,7 @@ exchange channels such as, but not limited to: (i) bank transfer;
 (4) cash transfer.
 
 "PDPA" means any personal data protection clauses from the applicable
-governing laws of Yours and Ours' countries of operations and countries of
+governing laws of Your and Our countries of operations and countries of
 residences such as but not limited to
 Malaysia’s Personal Data Protection Act 2010.
 
@@ -178,33 +181,41 @@ Malaysia’s Personal Data Protection Act 2010.
 trace back to an individualistic natural person's identity, either
 singularly on its own or when combined with other personal identifiable
 information such as but not limited to biodata, behavioral data,
-biometric data, fingerprint data, and health data which are,
-by nature and by default, a Sensitive Data protected under PDPA.
+biometric data, fingerprint data, and health data which,
+by nature and by default, is a Sensitive Data protected under PDPA.
 
 "Procure", "Procurable", "Procurement" means the action of obtaining or
-referring to the obtainment of the Product either though the means of
-Purchase or provided freely by Us.
+referring to the obtainment of a subject such as but not limited to the
+Product, either though the means of Purchase or the means of provided
+freely, from Us or from a third party regardless of its affiliation or
+recognition with Us.
 
 "Product" means a procurable tangible or intangible serviceable packaged
 goods and services (not to be confused with Service) such as but not
 limited to software, software source codes, compiled software binaries,
 complied software libraries, computing devices, graphic materials,
 Computer Aided Design (CAD) files, architecture artifacts, consumable meal,
-clothing, data processing services, content creation services, and
-repair services offered by Us.
+clothing, data processing services, content creation services,
+and repair services offered by Us.
 
-"Purchase" means the action of obtaining a Product via the means of
+"Purchase" means the action of obtaining or referring to the obtainment
+of a subject such as but not limited to the Product though the means of
 performing one or more Payment.
+
+"Right to Use" means a specific type of legal right for using a subject
+such as but not limited to a Product, a Service, a patent, a trademark,
+and a legal name under the terms and conditions of one or more of its
+owners.
 
 "Sensitive Data" means the information that is protected against
 unwarranted disclosure such as but not limited to PII,
 Authentication Credentials, or financial data.
 
-"Service" means the required customer services offered by Us or
-a third party Entity regardless of its affiliation or recognition with Us
-in order to deliver the value of a Procured Product or the value of
-a Contribution to a Product such as but not limited to logistics,
-concierge, custom processing, and etc.
+"Service" means the required customer services offered by Us or a third
+party Entity regardless of its affiliation or recognition with Us in
+order to deliver the value of a Procured Product or the value of a
+Contribution to a Product such as but not limited to logistical goods
+delivery, concierge, custom processing, and etc.
 
 "User Interface" means the end-user interactive Interface designed and
 facilitated by Us for You to communicate with one or more Products or
@@ -221,7 +232,7 @@ all its paths (e.g. www.hollowaykeanho.com/about) and all its subdomains
 (e.g. legal.hollowaykeanho.com) of any kinds directly from Us and
 indirectly from Our approved third-party service providers.
 
-"We", "Us", "Our" means the Provisioning Parties and any of their
+"We", "Us", 'Our" means the Provisioning Parties and any of their
 subsidiaries, affiliates, or successors.
 
 
@@ -229,13 +240,13 @@ subsidiaries, affiliates, or successors.
   2.1 Should the Covenant is under version controlled; except when a valid
       and specific version is explicitly reproduced either through the
       locally available Covenant Notice file or declared and reproduced by
-      the Product itself in which that shall be enforced; the latest and
-      greatest version of the entire Covenant of its understanding,
-      proposals, representations, and warranties relating to the subject
-      matter shall, with prejudice, prevail, be enforced, superseding all
-      previous Covenant versions.
+      the Product itself in which that version shall be enforced; the
+      latest and greatest version of the entire Covenant of its
+      understanding, proposals, representations, and warranties relating to
+      the subject matter shall, with prejudice, prevail, be enforced, and
+      superseding all previous versions.
   2.2 No rule of construction or interpretation shall apply to prejudice
-      the interest of the Party preparing the Covenant.
+      the interest of the party preparing the Covenant.
   2.3 Those clauses which by their nature would survive the termination of
       the Covenant shall so survive.
   2.4 This Covenant shall be binding on and shall inure for the benefit of
@@ -245,12 +256,12 @@ subsidiaries, affiliates, or successors.
       unenforceable, the validity of the remaining part shall remain in full
       force and effect as if this Covenant had been executed without the
       invalid parts.
-  2.6 This Covenant shall be ratified by You, be effective, and be in-force
-      until terminated according to these terms and conditions starting on
-      the date and time whichever earliest from one or more the explicitly
-      specified actions herein such as but not limited to:
+  2.6 This Covenant shall be agreed and ratified by You, be effective, and
+      be in-force until terminated according to these terms and conditions
+      starting on the date and time whichever earliest from one or more
+      explicitly specified actions herein such as but not limited to:
         2.6.1 fulfilling checkbox in the web form submission from any of
-              Our supported User Interfaces; OR
+              Our User Interfaces; OR
         2.6.2 Procuring the Product from any source with or without Ours’
               authorizations be it directly from Us or from a third-party
               Entity regardless of its affiliation or recognition with
@@ -264,21 +275,21 @@ subsidiaries, affiliates, or successors.
               therein; OR
         2.6.6 actively or passively using, reading, analyzing, editing,
               modifying, updating, remixing, remastering, deleting,
-              reverse engineering, or any unspecified action herein
-              otherwise to part of or all of the Product with or without
-              Ours’ written authorizations regardless of any of Our Grant
-              provisions to You; OR
-        2.6.7 indirect use of the Product in a legally non-contactable
+              reverse engineering, or any unspecified action otherwise to
+              part of or all of the Product regardless of Our written
+              authorizations or Covenant Grant provisioning status to
+              You; OR
+        2.6.7 indirectly using the Product in a legally non-contactable
               manner such as but not limited to serving part of or all of
               it as a training dataset for artificial intelligence and
-              neural network training purposes where under this Covenant
-              shall be strictly deemed as the definition of “right to use”
-              instead of the disputable “right to learn” where the latter
-              is still requiring the use the former in order to perform
-              the act of learning.
+              neural network training purposes where, under this Covenant,
+              shall be strictly deemed as the definition of “Right to Use”
+              instead of the disputable “Right to Learn” since the latter
+              is still requiring the use the former at minimal, by reading,
+              in order to perform the act of learning.
   2.7 You are not permitted to assign or novate any or parts of the rights
-      and obligations under the Covenant to any party without Ours’
-      written approval.
+      and obligations under the Covenant to any party without Our written
+      approval.
   2.8 We may assign or novate all or parts of the Covenant to any third
       party by written Notice without prior consent from You and You shall
       agree to make all subsequent payments (if applicable) and commitment
@@ -288,52 +299,82 @@ subsidiaries, affiliates, or successors.
 3 Grant of the Covenant
   3.1 The Content in the Product and the Product itself are proprietary to
       Us and are covered by the patent laws, patents in process,
-      manufacturing and fabrication laws, design laws, trade secrets
-      protections, copyright laws, and any other appropriate governing laws
-      of the Yours and Ours’ countries of operations and countries of
-      residences.
+      manufacturing and fabrication laws, design laws,
+      trade secrets protections, copyright laws, and any other appropriate
+      governing laws of the Your and Our countries of operations and
+      countries of residences.
   3.2 Subject to the terms and conditions of this Covenant, we hereby offer
-      You the following categories of Procurable written and verifiable
-      Grant in which they permit a specific type of right to use the
-      Product:
-        3.2.1 Personal Use Rights – authorizing the ability to use the
-              Product only for individual non-commercial deployment
-              excluding representations or reactionary implications to the
-              Product in which they are under the “Representation Right”
-              category; AND
-        3.2.2 Commercial Use Rights – authorizing the ability to use the
-              Product for any beneficial and monetary gains in any kind or
-              form such as but not limited advertisement commissions; AND
+      You the following categories of Procurable Grant in written and
+      self-verifiable form where they permit a specific type of
+      Right to Use:
+        3.2.1 Personal Use Rights – authorizing the ability to use for
+                                    individual non-commercial deployment
+                                    excluding representations or
+                                    reactionary implications in which they
+                                    are under the “Representation Right”
+                                    category; AND
+        3.2.2 Commercial Use Rights – authorizing the ability to use for
+                                      any beneficial and monetary gains in
+                                      any kind or form such as but not
+                                      limited advertisement
+                                      commissions; AND
         3.2.3 Repair and Restoration Rights – authorizing the ability to
-              perform repair or replacement authorized parts of the Product
-              owned by You or by a third party regardless of its affiliation
-              or recognition by You or Us; AND
+                                              perform repair or replacement
+                                              authorized parts of or all of
+                                              the Product owned by You or
+                                              by a third party regardless
+                                              of its affiliation or
+                                              recognition with You or
+                                              Us; AND
         3.2.4 Representation Rights – authorizing the ability to review,
-              create reactionary implications of, and market the Product as
-              Our recognized associated marketing affiliation, representing
-              or on behalf of Us outside the provision of Fair Use; AND
+                                      create reactionary implications of,
+                                      and market the Product as Our
+                                      recognized associated marketing
+                                      affiliation, representing or on
+                                      behalf of Us outside the provision
+                                      of Fair Use; AND
         3.2.5 Editing, Modifying, Updating, and Remastering Rights –
-              authorizing the ability to perform any modifications to the
-              Product; AND
+                                      authorizing the ability to perform
+                                      any modifications to the
+                                      Product; AND
         3.2.6 Derivative and Remix Rights – authorizing the ability to
-              create any Derived Product; AND
-        3.2.7 Patent Rights – authorizing the ability to access our
-              patented intellectual properties within part of or all of the
-              Product; AND
-        3.2.8 Distribution Rights – authorizing the ability to distribute
-              the Product or Derived Product to a third-party or Your
-              recipient such as but not limited logistical delivery and
-              online download capability; AND
-        3.2.9 Redistribution Rights – authorizing the ability to retail or
-              to resell the Product or Derived Product to a Your
-              third-party distributor or Your third-party retailers; AND
-        3.2.10 Miscellaneous Rights – authorizing the ability of rights not
-               categorized as above such as but not limited to rights
-               discovered across the future timeline.
+                                            create any
+                                            Derived Product; AND
+        3.2.7 Patent Use Rights – authorizing the ability to use our
+                                  patented intellectual properties within
+                                  part of or all of the Product; AND
+        3.2.8 Industrial Design Use Rights – authorizing the ability to
+                                             use our registered industrial
+                                             design within part of or all
+                                             of the Product; AND
+        3.2.9 Integrated Circuit Layout Design Use Rights – authorizing the
+                                             ability to use our registered
+                                             integrated circuit layout
+                                             design within part of or all
+                                             of the Product; AND
+        3.2.10 Trade Secret Access and Use Rights – authorizing the ability
+                                             to use our registered
+                                             industrial design within part
+                                             of or all of the Product; AND
+        3.2.11 Distribution Rights – authorizing the ability to distribute
+                                     the Product or Derived Product to a
+                                     third-party or Your recipient such as
+                                     but not limited logistical delivery
+                                     and online download capability; AND
+        3.2.12 Redistribution Rights – authorizing the ability to retail or
+                                       to resell the Product or
+                                       Derived Product to a Your
+                                       third-party distributor or Your
+                                       third-party retailers; AND
+        3.2.13 Miscellaneous Rights – authorizing, subjected to Our
+                                      approval, any applicable Right to Use
+                                      not categorized as above such as but
+                                      not limited to new discovery across
+                                      the future timeline.
   3.3 In the absent of one or more valid and Procured Grant listed in all
-      its sub-clauses of Clause 3.2, You are prohibited from performing any
-      action to part of or all of Our Product such as but not limited to
-      source, download, read, preview, analyze, bypass, descramble,
+      its sub-clauses of Clause 3.2, You are prohibited from performing
+      any action to part of or all of Our Product such as but not limited
+      to source, download, read, preview, analyze, bypass, descramble,
       decipher, compile, disassemble, inflicting fatally or non-fatal harm
       or injury to Yourself or to another, reverse engineer, perform any
       forms of attack to its licensing mechanism for circumvention, or any
@@ -342,10 +383,10 @@ subsidiaries, affiliates, or successors.
       indirectly from Us or from a third party Entity regardless of Our
       affiliation or recognition.
   3.4 In lieu with Clause 3.3, in the event where you’re prohibited to
-      perform any action to Our Product, You shall remove and delete all of
-      Our Product under Your possession with the absolute intention of not
-      using or refrain from using the Product until Your next successful
-      Grant Procurement.
+      perform any action to Our Product, You shall remove, purge, and
+      delete all copies of the Product under Your possession with the
+      absolute intention of not using or refrain from using the Product
+      until Your next successful Grant Procurement.
   3.5 With all the specific overriding terms and conditions from one or
       more Procured Grant listed in all its sub-clauses of Clause 3.2 from
       Us to You, You agree and ratify that:
@@ -358,15 +399,15 @@ subsidiaries, affiliates, or successors.
               and any of its Grant for any amendments, request or validity
               time extension, termination in accordance to our business
               trade policies; AND
-        3.5.3 You comply with all applicable laws of Yours’ and Ours’
+        3.5.3 You comply with all applicable laws of Your and Our
               countries of operations and countries of residences related
               to the use of the Procured Products; AND
         3.5.4 You are fully responsible for:
                 3.5.4.1 all equipment and assets Procured necessary to use
                         the Procured Products; AND
                 3.5.4.2 the security and integrity of all information data
-                        transmitted, disclosed, and/or obtained via the use
-                        of Ours’ Products; AND
+                        transmitted, disclosed, and/or obtained via the
+                        use of Our Products; AND
                 3.5.4.3 all usage and charges for the Procured Products,
                         including Payment and Service charges and any
                         related charges related to Us pursuant to this
@@ -385,9 +426,9 @@ subsidiaries, affiliates, or successors.
       required Payment for the Purchase of the Grant as part of or all of
       Your Procurement in accordance to the terms of conditions of our
       business trade policies such as but not limited to:
-        3.6.1 You shall contact Us for quoting an interim price lock prior
-              to perform any Purchase subjected to availability; AND
-        3.6.2 We shall provision all the Grants in a offline readable,
+        3.6.1 You shall contact Us for quoting an interim price lock
+              prior to perform any Purchase subjected to availability; AND
+        3.6.2 We shall provision all the Grants in an offline readable,
               usable, and self-verifiable written file or key file form
               such as but not limited to using Cryptographically signed
               digital signature to warrant the Grant’s PDF certificate
@@ -401,134 +442,148 @@ subsidiaries, affiliates, or successors.
               employment or business when physical goods delivery is
               required.
   3.8 We reserve the right to review Your conducts and Contents on
-      compliance with all applicable terms and conditions detailed in this
-      Covenant and its Grants from the usage of the Product at any time and
-      at Our own discretion.
-  3.9 In lieu with Clause 3.8, where any violation is found, We reserve the
-      right to perform any countermeasures, with or without prior Notice,
-      with or without permission from You, such as but not limited to:
-        3.9.1 deleting the subjected Contents belonging to You from
-              Our Products with or without Notice; AND
-        3.9.2 ceasing, suspending, and deleting Your Account and its access
-              to Our Products definitely or indefinitely; AND
-        3.9.3 cooperating with local enforcement or similar authorities for
-              any legal, law, regulatory violation and breaches committed by
-              You.
+      compliance with all applicable terms and conditions detailed in
+      this Covenant and its Grants from the usage of the Product at any
+      time and at Our own discretion.
+  3.9 In lieu with Clause 3.8, where any violation is found, We reserve
+      the right to perform any countermeasures, with or without prior
+      Notice, with or without permission from You, such as but not
+      limited to:
+        3.9.1 deleting the subjected Contents belonging to You from Our
+              Products with or without Notice; AND
+        3.9.2 ceasing, suspending, and deleting Your Account and its
+              access to Our Products definitely or indefinitely; AND
+        3.9.3 cooperating with local enforcement or similar authorities
+              for any legal, law, regulatory violation and breaches
+              committed by You.
 
 
-4 Trademark
-  4.1 This Covenant does not grant You the permission to use the trade names,
-      trademarks, service marks, product names, or the personal names of any
-      Creator and any of Us; except as required for reasonable and customary
-      use in describing the origin of the Product and reproducing the content
-      of the Notice file.
+4 Trademark, Names, and Registered Identifier
+  4.1 This Covenant does not grant You the permission to use the
+      trade names, trademarks, service marks, product names, legal names,
+      geographical indicator (GI), protected geographical indicator (PGI),
+      protected designated indicator (PDI), or any other registered
+      identifier of any Creator, any Contributing Entity, or any of Us;
+      except as required for reasonable and customary use in describing
+      the origin of the Product and reproducing the content of the
+      Notice file.
 
 
 5 Disclaimer of Warranty
-  5.1 In the absent of one or more valid and Procured Grant listed in all
-      its sub-clauses of Clause 3.2, then the Product shall be "as is"
-      basis, without warranties or conditions of any kind, either express
-      or implied, including, without limitation, any warranties or
-      conditions of merchantability, or fitness for a particular purpose
-      so You are solely responsible for all the consequences of Your
-      unauthorized use including but not limited to legal actions from Us
-      and from any third party Entity.
+  5.1 In the absent of any valid and Procured Grant listed in all its
+      sub-clauses of Clause 3.2, then the Product shall be "as is" basis,
+      without warranties or conditions of any kind, either express or
+      implied, including, without limitation, any warranties or conditions
+      of merchantability, or fitness for a particular purpose so You are
+      solely responsible for all the consequences of Your unauthorized use
+      including but not limited to legal actions from Us and from one or
+      more third party Entities.
   5.2 In the presence of one or more valid and Procured Grant listed in
-      all its sub-clauses of Clause 3.2 provisioned by Us to You, the
-      Product’s warranties and risks coverage shall only comply to those
-      overriding terms and conditions specified in the provisioned Grants
-      therein.
-  5.3 While We are committed to protect Your Sensitive Data such as but not
-      limited to placing the required technologies and standards to protect
-      them, We do not guarantee or warrant a completely zero incident of
-      any unauthorized or accidental access to such data.
+      all its sub-clauses of Clause 3.2 provisioned by Us to You,
+      the Product’s warranties and risks coverage shall only comply to
+      those overriding terms and conditions specified therein.
+  5.3 While all Creators, all Contributing Entities, and Us are committed
+      to protect Your Sensitive Data such as but not limited to placing
+      the required technologies and standards to protect them, we do not
+      guarantee or warrant a completely zero incident of any unauthorized
+      or accidental access to such data.
 
 
 6 Limitation of Liability
-  6.1 You agree to indemnify and shall keep Us indemnified from any loss,
-      damage, liability or expense arising from any special, direct,
-      indirect, claims of libel, privacy and/or copyright infringement,
-      patent, breach of confidence, breach of any law or regulations, or
-      consequential damages or any damages whatsoever resulting from loss of
-      use, data or profits, whether in an action of contract, negligence or
-      other tortious action, arising out of or in connection with the use
-      or performance of the Product.
+  6.1 In no event and under not legal theory, whether in tort
+      (including negligence), contract or otherwise; unless required by
+      applicable law (such as deliberate and grossly negligent acts) or
+      agreed to in writing; You agree to indemnify and shall keep Us,
+      all Creators, and All Contributing Entities indemnified from any
+      direct, indirect, special, incidental, or consequential loss or
+      damages of any character or form such as but not limited to
+      claim of libel, privacy and/or copyright infringement,
+      patent litigation, legal actions, breach of trust,
+      breach of confidence, and breach of any law of regulations; even
+      under advisory of the possibility of such damaging consequences;
+      arising out of:
+        6.1.1 this Covenant; OR
+        6.1.2 loss of use, or inability to use (including but not limited
+              to damages for loss of goodwill, work stoppage,
+              failure or malfunction, or any other form of interruption,
+              damages, or losses) of the Product; OR
+        6.1.3 data or profits of the Product; OR
+        6.1.4 Any consequence, whether in an action of contract,
+              negligence or other tortious action, arising out of or in
+              connection with the use or performance of the Product.
   6.2 Without limiting the generality of any provision in this Covenant,
-      You agree to indemnify and shall keep Us indemnified from any failure
-      to perform any obligation by Us or by Our Product, any loss,
-      any damage, any liability or any expense herein caused by factor of
-      force majeure for whom We has no control over or any cause outside
-      Our reasonable control such as but not limited to an act of God,
-      insurrection or civil disorder, military operations, act of terrorism,
-      emergency, acts or omission of Government or any competent authority,
-      labor trouble or industrial disputes of any kind, fire destruction,
-      lightning destruction, landslide destruction, earthquake, subsidence,
-      explosion, floods, radio interference, room temperature fluctuation,
-      power disruptions, infrastructure collapses due to negligence of other
-      third parties not from Us, or acts of omission of persons or bodies
-      not from Us.
-  6.3 Without limiting the generality of any provision in this Covenant,
-      You agree to indemnify and shall keep Us indemnified from any
-      consequences yielded from any unauthorized or accidental access to
-      such data as we do not guarantee or warrant a complete zero incident
-      of such from happening.
-  6.4 Due to the global and technological nature of the digital data
-      processing businesses, for the purpose set out in this Covenant, You
-      hereby granted Us to transfer Your Sensitive Data to any associated
+      You agree to indemnify and shall keep all Creators,
+      all Contributing Entities, and Us indemnified from any failure to
+      perform any obligation by us or by the Product, any loss, any damage,
+      any liability or any expense caused by force majeure for whom we has
+      no control over or any cause outside our reasonable control such as
+      but not limited to an act of God, insurrection or civil disorder,
+      military operations, act of terrorism, emergency, acts or omission
+      of Government or any competent authority, labor trouble or
+      industrial disputes of any kind, fire, lightning, landslide,
+      earthquake, subsidence, explosion, floods, radio interference,
+      room temperature fluctuation, power disruptions,
+      infrastructure collapses, or acts of omission of persons or bodies
+      not from us.
+  6.3 Due to the global and technological nature of the digital data
+      processing businesses, for the purpose set out in this Covenant,
+      You hereby grant all Creators, all Contributing Entities, and Us
+      to perform any transfer of Your Sensitive Data to any associated
       and applicable third parties such as but not limited to certified
-      datacenter or Sensitive Data security service provider outside Yours
-      and Ours’ countries of operations and countries of residences in which
-      the recipient shall provide a standard of protection for the received
-      Sensitive Data comparable to that of Yours and Ours’ PDPA.
+      datacenter or certified Sensitive Data security service provider
+      outside Your and Our countries of operations and countries of
+      residences in which the recipient shall provide a standard of
+      protection for the received Sensitive Data comparable to that of
+      Your and Our PDPA; and hereby indemnify all of us from any of its
+      consequences arising therein.
+  6.4 Without limiting the generality of any provision in this Covenant,
+      You agree to indemnify and shall keep all Creators,
+      all Contributing Entities, and Us indemnified from any consequences
+      yielded from any unauthorized or accidental access to Your
+      Sensitive Data as we do not guarantee or warrant a complete zero
+      incident of such from happening.
   6.5 You agree that should any legal judiciary court of any country is
       involved with You allegedly violating any of the terms and conditions
-      of this Covenant in any of Your pursue, You agree that regardless of
-      any judiciary conclusion be it a bona-fide violation as the defendant
-      or a false allegation from the plaintiff, both sides had
+      of this Covenant in any of Your pursue, You agree that regardless
+      of any judiciary conclusion be it a bona-fide violation as the
+      defendant or a false allegation from the plaintiff, both sides had
       indiscriminately incurred a minimum amount of damage values to the
       winning party where the legal judiciary court deemed worthy for
       initiating a proceeding wherever applicable such that the specified
       amount is constituted from the following, whichever highest:
         6.5.1 a minimal amount of 120,000.00
               (one hundred and twenty thousand) of the biggest globally
-              trading reserve currency dated to the first day of the case
-              filing (e.g. 120 thousand US Dollar as of year 2024) plus its
-              adjusted inflation starting from year of this Covenant is
-              agreed and ratified by You and Us; OR
-        6.5.2 the minimum value determined by the judiciary court in which
-              if decided, overruled Clause 6.5.1.
+              trading reserve currency dated to the first day of the
+              litigation is filed (e.g. 120 thousand US Dollar as of
+              year 2024) plus its adjusted inflation starting from date of
+              this Covenant agreed and ratified by You; OR
+        6.5.2 the minimum value decided by the judiciary court overruling
+              Clause 6.5.1.
 
 
 7 Applying the Covenant to Your Product
-  7.1 To apply this Covenant to Your Product, You shall attach the following
-      boilerplate Notice, with the fields enclosed by brackets “[]” replaced
-      with your own identifying information without including the brackets
-      themselves.
+  7.1 To apply this Covenant to Your Product, You shall attach the
+      following boilerplate Notice, with the fields enclosed by brackets
+      “[]” replaced with your own identifying information without
+      including the brackets themselves.
 --------------------------------------------------------------------------------
 Copyright [YEAR] [FULL_LEGAL_NAME] [CONTACT_LIKE_EMAIL_ADDRESS]
 
 
 Licensed under the (Holloway) Chew, Kean Ho’s Proprietary License
-(the "License"); you may not use this content except in compliance with the
-License. You may obtain a copy of the License at
+(the "License"); you may not use this content except in compliance with
+the License. You may obtain a copy of the License at
 
-                  https://doi.org/10.5281/zenodo.13767361
-
-With the exception of one or more specific License grant (the “Grant”) procured
-by you directly from the copyright holders, all contents contained herein
-(the “Content”) shall and always remains as the property of the copyright
-holders and its suppliers, if any. The Content contained herein are proprietary
-to the copyright holders and are covered by the patent laws, patents in process,
-manufacturing and fabrication laws, design laws, trade secrets protections,
-copyright laws, and any other appropriate governing laws of yours and the
-copyright holders’ countries of operations and countries of residences.
+                https://doi.org/10.5281/zenodo.13767361
 
 DISSEMINATION OR REPRODUCTION PART OF OR ALL OF THE CONTENT IS STRICTLY
-FORBIDDEN UNLESS ONE OR MORE WRITTEN GRANT IS PROCURED FROM THE CORRESPONDING
-COPYRIGHT HOLDERS.
+FORBIDDEN UNLESS ONE OR MORE APPLICABLE WRITTEN GRANT IS PROCURED FROM THE
+CORRESPONDING COPYRIGHT HOLDERS. See the License for the specific language
+governing permissions and limitations under the License.
 --------------------------------------------------------------------------------
-  7.2 In lieu with Clause 7.1, the text should be enclosed in the appropriate
-      comment syntax for the file format.
-  7.3 We also recommend that a file or class name and description of purpose
-      be included on the same “printed page” as the copyright Notice for
-      easier identification within third-party archives.
+  7.2 In lieu with Clause 7.1, the text should be enclosed in the
+      appropriate comment syntax for the file format.
+  7.3 We also recommend that a file or class name and description of
+      purpose be included on the same “printed page” as the
+      copyright Notice for easier identification within third-party
+      archives.

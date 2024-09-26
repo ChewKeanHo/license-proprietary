@@ -1,8 +1,8 @@
 cff-version: "1.2.0"
 type: "software"
-date-released: "2024-09-24"
+date-released: "2024-09-26"
 title: "(Holloway) Chew, Kean Ho's Proprietary License"
-version: "2.0.2"
+version: "3.0.0"
 license: "CC-BY-ND-4.0"
 repository: "https://github.com/ChewKeanHo/license-proprietary"
 repository-code: "https://github.com/ChewKeanHo/license-proprietary"
@@ -23,7 +23,8 @@ abstract: |-
 
   (1) Changed "Software" to "Product" so that the license can be expanded to
       non-software product licensing usage (e.g. graphics, video, manufacturing
-      design, etc) without needing to spin multiple licenses; AND
+      design, audio, etc) without needing to spin multiple outbound
+      licenses; AND
   (2) Added license assignment, ratification, and tenure section to specify when
       and how is the license applied; AND
   (3) Added version controlled clauses for which version shall be in effect by
@@ -41,7 +42,14 @@ abstract: |-
   (11) Added Sensitive Data limitation of liability; AND
   (12) Added global vendors (e.g. datacenter) Sensitive Data limitation of
        liability; AND
-  (13) Added judiciary minimal damage values limitation of liability.
+  (13) Added judiciary minimal damage values limitation of liability; AND
+  (14) Added geographical indicator coverage; AND
+  (15) Added protected geographical indicator coverage; AND
+  (16) Added protected designation indicator coverage; AND
+  (17) Added industrial design use coverage; AND
+  (18) Added integrated circuit layout design use coverage; AND
+  (19) Added trade secret use coverage; AND
+  (20) Expanded grant clauses into Creative Commons' rights categories.
 
   This repository was formerly known as
   "(Holloway) Chew, Kean Ho's Proprietary License 1.0" but was renamed for
