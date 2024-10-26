@@ -1,51 +1,79 @@
 # (Holloway) Chew, Kean Ho's Proprietary License
 
-A published proprietary license targeting commerical and sole proprietor for
-[(Holloway) Chew, Kean Ho](https://github.com/ChewKeanHo) product licensing
-purposes. This license was adopted from the
+> **IMPORTANT NOTICE**
+>
+> This license was drafted by a software developer based on his past experiences
+> across software, service, and agriculture industries.
+>
+> Like all legal documents,
+> **YOU MUST ALWAYS ENGAGE A LAWYER TO VALIDATE ITS FEASIBILITY**.
+>
+> **NEVER ASSUME WHEN DEALING WITH LEGAL TRANSACTIONS**.
+
+A published baseline proprietary license targeting publicly obtainable,
+commercial, and proprietor product licensing needs. This license adopted from
 [Open Source Initiative's Apache 2.0 License](https://opensource.org/license/apache-2-0)
-and [Creative Common Licenses](https://creativecommons.org/)
-as its baseline and applied the following changes:
+software license and [Creative Common Licenses](https://creativecommons.org/)
+product license as its baseline and applied the following changes matching the
+current timeline:
 
 1. Changed `Software` to `Product` so that the license can be expanded to
-   non-software product licensing usage (e.g. graphics, video, manufacturing
+   non-software product licensing uses (e.g. graphics, video, manufacturing
    design, audio, etc) without needing to spin multiple outbound licenses; AND
 2. Added license assignment, ratification, and tenure section to specify when
    and how is the license applied; AND
-3. Added version controlled clauses for which version shall be in effect by
-   default; AND
-4. Replaced all open-source and sharing clauses with lockdown clauses to seal
-   the proprietary exclusivity and uses overriding terms and conditions via
-   license grant issuance; AND
-5. Framework all available rights based on Creative Common definitions for
-   communications inter-compatibility purposes; AND
-6. Added sensitive data coverage; AND
-7. Added license grant sales and purchase coverage; AND
-8. Added artifical intelligence training dataset usage clauses; AND
-9. Added trademark usage coverage; AND
-10. Added force manjure limitation of liability; AND
-11. Added Sensitive Data limitation of liability; AND
-12. Added global vendors (e.g. datacenter) Sensitive Data limitation of
-    liability; AND
-13. Added judiciary minimal damage values limitation of liability; AND
-14. Added geographical indicator coverage; AND
-15. Added protected geographical indicator coverage; AND
-16. Added protected designation indicator coverage; AND
-17. Added industrial design use coverage; AND
-18. Added integrated circuit layout design use coverage; AND
-19. Added trade secret use coverage; AND
-20. Expanded grant clauses into Creative Commons' rights categories.
+3. Added license termination section to specify when the license is matured; AND
+4. Added version controlled clause for continuous improvement; AND
+5. Added sensitive data management and security coverage; AND
+6. Structured known Rights to Use sections for easier parsing and referencing
+   (based on `Creative Common Licenses`); AND
+7. Added non-contact `Rights to Use` clauses (example: as dataset for training
+   AI); AND
+8. Added force manjure limitation of liabilities; AND
+9. Added minimal agreed judiciary damage; AND
+10. Added geographical indicator coverage; AND
+11. Added designation indicator coverage; AND
+12. Added protected geographical indicator coverage; AND
+13. Added protected designation indicator coverage; AND
+14. Added integrated circuit layout design use coverage; AND
+15. Added industrial design use coverage; AND
+16. Added trade secret use coverage; AND
+17. Added trademark use coverage; AND
+18. Applied [plainlanguage.gov](https://plainlanguage.gov/guidelines/)
+    specifications; AND
+19. Re-written from scratch by human with the only input provision assistance
+    from [Claude AI](https://claude.ai/); AND
+20. Addressed the modified and derived Products' renaming grey area issue; AND
+21. Added statutory time limit for any legal claim; AND
+22. Added QR code notice type for space constrained product display.
 
-This repository was formerly known as
-`(Holloway) Chew, Kean Ho's Proprietary License 1.0` but was renamed for
-consistency purposes.
+
+This repository was formerly known as the following but was renamed for
+consistency purposes:
+
+1. `(Holloway) Chew, Kean Ho's Proprietary License 1.0`
+
+
+
+
+## Business Reasons
+
+This project was initiated for 4 reasons:
+
+1. As of year 2024, there isn't really a proprietary license for public use; AND
+2. Most non-commercial licenses are out-of-date and does not implement
+   automatic update to the license clauses aside from point-releasing; AND
+3. Most commercial licenses are specific to its product or service rendering
+   not re-usable; AND
+4. Most licenses are not clear about guidelines and a lot of the licenses
+   are too vague in its obligation coverage.
 
 
 
 
 ## Version Controlled
 
-This repository is version controlled using
+This license is version controlled using
 [semantic versioning](https://semver.org/) definitions where:
 
 1. the `MAJOR` version denotes major legal changes; AND
@@ -55,99 +83,69 @@ This repository is version controlled using
 3. the `PATCH` version denotes the repository management changes such as but
    not limited to new language addition, updating `README.md`, and etc.
 
+By default, the license is always using the latest and greatest. If you want
+a specific version, download that license file and include it into your
+product repository.
+
 
 
 
 ## License Nature
 
-To use this license for your product licensing, you **MUST**, in layman terms,
-consider the following as your recipient perpectives:
+To comply with [PlainLanguage.gov](https://plainlanguage.gov/guidelines/),
+You have to read the license files directly. It must be easily readable for
+any general public audience without assistance.
 
-1. *You're only allowed to use for personal deployment as long as you*:
-   1. **SHALL** procure either given by or purchase the license grant from the
-      copyright owner in written document; AND
-   2. **SHALL** only use within the specified terms and conditions inside your
-      grant; AND
-   3. **SHALL** retain the copyright notices and effects of the product you use,
-      be it in its raw form (e.g. source codes) or its produced form (compiled
-      software binary files); AND
-   4. **SHALL NOT** use the creators' name, brand, and trademark without their
-      written notices for any endorsement of your pursue; AND
-   5. **SHALL NOT OWN** any copy of the Product by deleting them all from your
-      posession if you do not have any procured license grant; AND
-2. *You're only allowed to use for commercial deployment as long as you*:
-   1. **SHALL** procure either given by or purchase the license grant from the
-      copyright owner in written document; AND
-   2. **SHALL** only use within the specified terms and conditions inside your
-      grant; AND
-   3. **SHALL** retain the copyright notices and effects of the product you use,
-      be it in its raw form (e.g. source codes) or its produced form (compiled
-      software binary files); AND
-   4. **SHALL NOT** use the creators' name, brand, and trademark without their
-      written notices for any endorsement of your pursue; AND
-   5. **SHALL NOT OWN** any copy of the Product by deleting them all from your
-      posession if you do not have any procured license grant; AND
-3. *You're only allowed to edit/modify as long as you*:
-   1. **SHALL** procure either given by or purchase the license grant from the
-      copyright owner in written document; AND
-   2. **SHALL** only use within the specified terms and conditions inside your
-      grant; AND
-   3. **SHALL** retain the copyright notices and effects of the product you use,
-      be it in its raw form (e.g. source codes) or its produced form (compiled
-      software binary files); AND
-   4. **SHALL NOT** use the creators' name, brand, and trademark without their
-      written notices for any endorsement of your pursue; AND
-   5. **SHALL NOT OWN** any copy of the Product by deleting them all from your
-      posession if you do not have any procured license grant; AND
-4. *You're only allowed to remix/remaster as long as you*:
-   1. **SHALL** procure either given by or purchase the license grant from the
-      copyright owner in written document; AND
-   2. **SHALL** only use within the specified terms and conditions inside your
-      grant; AND
-   3. **SHALL** retain the copyright notices and effects of the product you use,
-      be it in its raw form (e.g. source codes) or its produced form (compiled
-      software binary files); AND
-   4. **SHALL NOT** use the creators' name, brand, and trademark without their
-      written notices for any endorsement of your pursue; AND
-   5. **SHALL NOT OWN** any copy of the Product by deleting them all from your
-      posession if you do not have any procured license grant; AND
-5. *You're only allowed to distribute as long as you*:
-   1. **SHALL** procure either given by or purchase the license grant from the
-      copyright owner in written document; AND
-   2. **SHALL** only use within the specified terms and conditions inside your
-      grant; AND
-   3. **SHALL** retain the copyright notices and effects of the product you use,
-      be it in its raw form (e.g. source codes) or its produced form (compiled
-      software binary files); AND
-   4. **SHALL NOT** use the creators' name, brand, and trademark without their
-      written notices for any endorsement of your pursue; AND
-   5. **SHALL NOT OWN** any copy of the Product by deleting them all from your
-      posession if you do not have any procured license grant; AND
-6. *You're only allowed to re-distribute as long as you*:
-   1. **SHALL** procure either given by or purchase the license grant from the
-      copyright owner in written document; AND
-   2. **SHALL** only use within the specified terms and conditions inside your
-      grant; AND
-   3. **SHALL** retain the copyright notices and effects of the product you use,
-      be it in its raw form (e.g. source codes) or its produced form (compiled
-      software binary files); AND
-   4. **SHALL NOT** use the creators' name, brand, and trademark without their
-      written notices for any endorsement of your pursue; AND
-   5. **SHALL NOT OWN** any copy of the Product by deleting them all from your
-      posession if you do not have any procured license grant; AND
-7. *You're only allowed to perform any miscellaneous rights not mentioned above
-   as long as you*:
-   1. **SHALL** procure either given by or purchase the license grant from the
-      copyright owner in written document; AND
-   2. **SHALL** only use within the specified terms and conditions inside your
-      grant; AND
-   3. **SHALL** retain the copyright notices and effects of the product you use,
-      be it in its raw form (e.g. source codes) or its produced form (compiled
-      software binary files); AND
-   4. **SHALL NOT** use the creators' name, brand, and trademark without their
-      written notices for any endorsement of your pursue; AND
-   5. **SHALL NOT OWN** any copy of the Product by deleting them all from your
-      posession if you do not have any procured license grant.
+If you cannot parse or understand any part of the license, that means the
+license has not fully achieve the guideline yet. In that case, please file a
+[query issue](https://github.com/ChewKeanHo/license-proprietary/issues).
+
+
+
+
+## Credits
+
+These are the official stewards of the license:
+
+1. **[(Holloway) Chew, Kean Ho](https://hollowaykeanho.com)** - principal author
+   and reviewer.
+
+
+These are the folks who indirectly improve this license upto a considerable
+quality either by resources sharing or scanning:
+
+1. **[Bruce Payne](https://perens.com/)** - for relentlessly providing license
+   drafting guidances and emotional positivity.
+2. **[Anthropic's Claude AI](https://claude.ai/)** - for providing a lot of
+   great inputs for me to fine-tune clauses and clues for hunting for actual
+   legal resources.
+3. **Chua, Yee Soong** - for guiding over Malaysia's legal acumen and resources.
+
+
+
+
+## Researches
+
+* [Limitations Act of Malaysia](https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/ACT%20254-Online%20version%20as%20at%201%20Sept%202019.pdf)
+* [United States' PlainLanguage.GOV](https://plainlanguage.gov/guidelines/)
+* [MYIPO](https://www.myipo.gov.my/en/home/)
+* [USPTO](https://www.uspto.gov/)
+* [EUIPO](https://www.euipo.europa.eu/en)
+* [CNIPA](https://english.cnipa.gov.cn/col/col2977/index.html)
+* [BSD Zero Clause License](https://opensource.org/license/0bsd)
+* [MIT License](https://opensource.org/license/MIT)
+* [BSD 3 Clauses Clear License](https://spdx.org/licenses/BSD-3-Clause-Clear.html)
+* [BSD 2 Clauses + Patent License](https://opensource.org/license/bsdpluspatent)
+* [Open Source Initiative's Apache 2.0 License](https://opensource.org/license/apache-2-0)
+* [Creative Common Licenses](https://creativecommons.org/)
+
+
+
+
+## Publication License
+
+This workspace and repository is published under
+[Creative Common CC-BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/legalcode.en).
 
 
 
@@ -173,22 +171,17 @@ The following are the license notice within the supported languages:
 Copyright [YEAR] [FULL_LEGAL_NAME] [CONTACT_LIKE_EMAIL_ADDRESS]
 
 
-Licensed under the (Holloway) Chew, Kean Ho’s Proprietary License
-(the "License"); you may not use this content except in compliance with
-the License. You may obtain a copy of the License at
+Licensed under (Holloway) Chew, Kean Ho’s Proprietary License (the "License").
+You must comply with the license to use the content. Get the License at:
 
-                https://doi.org/10.5281/zenodo.13767361
+                  https://doi.org/10.5281/zenodo.13767361
 
-DISSEMINATION OR REPRODUCTION PART OF OR ALL OF THE CONTENT IS STRICTLY
-FORBIDDEN UNLESS ONE OR MORE APPLICABLE WRITTEN GRANT IS PROCURED FROM THE
-CORRESPONDING COPYRIGHT HOLDERS. See the License for the specific language
-governing permissions and limitations under the License.
+DO NOT SOURCE, USE, READ, MODIFY, REPRODUCE, DISTRIBUTE, RE-DISTRIBUTE,
+REVERSE ENGINEER, OR ANY OTHER ACTIONS WITH ANY PART OF THE CONTENT WITHOUT
+WRITTEN AND RATIFIED CONSENT from the copyright owners, unless the license
+explicitly allowing it.
 ```
 
+OR label the QR code
 
-
-
-## License
-
-This workspace and repository is published under
-[Creative Common CC-BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/legalcode.en).
+[<img src="src/files/NOTICE_en.svg" width="120">](#)

@@ -2,7 +2,7 @@ cff-version: "1.2.0"
 type: "software"
 date-released: "2024-09-26"
 title: "(Holloway) Chew, Kean Ho's Proprietary License"
-version: "3.0.0"
+version: "5.0.0"
 license: "CC-BY-ND-4.0"
 repository: "https://github.com/ChewKeanHo/license-proprietary"
 repository-code: "https://github.com/ChewKeanHo/license-proprietary"
@@ -13,160 +13,73 @@ contact:
     email: "hello@hollowaykeanho.com"
     website: "https://www.hollowaykeanho.com"
 abstract: |-
-  A published proprietary license targeting commerical and sole proprietor for
-  "(Holloway) Chew, Kean Ho" (https://github.com/ChewKeanHo) product licensing
-  purposes. This license was adopted from the
+  A published baseline proprietary license targeting publicly obtainable,
+  commercial, and proprietor product licensing needs. This license adopted from
   "Open Source Initiative's Apache 2.0 License"
-  (https://opensource.org/license/apache-2-0) and "Creative Common Licenses"
-  (https://creativecommons.org/) as its baseline and applied the following
-  changes:
+  (https://opensource.org/license/apache-2-0) software license and
+  "Creative Common Licenses" (https://creativecommons.org/) product license as
+  its baseline and applied the following changes matching the current timeline:
 
-  (1) Changed "Software" to "Product" so that the license can be expanded to
-      non-software product licensing usage (e.g. graphics, video, manufacturing
-      design, audio, etc) without needing to spin multiple outbound
-      licenses; AND
-  (2) Added license assignment, ratification, and tenure section to specify when
-      and how is the license applied; AND
-  (3) Added version controlled clauses for which version shall be in effect by
-      default; AND
-  (4) Replaced all open-source and sharing clauses with lockdown clauses to seal
-      the proprietary exclusivity and uses overriding terms and conditions via
-      license grant issuance; AND
-  (5) Framework all available rights based on Creative Common definitions for
-      communications inter-compatibility purposes; AND
-  (6) Added sensitive data coverage; AND
-  (7) Added license grant sales and purchase coverage; AND
-  (8) Added artifical intelligence training dataset usage clauses; AND
-  (9) Added trademark usage coverage; AND
-  (10) Added force manjure limitation of liability; AND
-  (11) Added Sensitive Data limitation of liability; AND
-  (12) Added global vendors (e.g. datacenter) Sensitive Data limitation of
-       liability; AND
-  (13) Added judiciary minimal damage values limitation of liability; AND
-  (14) Added geographical indicator coverage; AND
-  (15) Added protected geographical indicator coverage; AND
-  (16) Added protected designation indicator coverage; AND
-  (17) Added industrial design use coverage; AND
-  (18) Added integrated circuit layout design use coverage; AND
-  (19) Added trade secret use coverage; AND
-  (20) Expanded grant clauses into Creative Commons' rights categories.
+  1. Changed "Software" to "Product" so that the license can be expanded to
+     non-software product licensing uses (e.g. graphics, video, manufacturing
+     design, audio, etc) without needing to spin multiple outbound licenses; AND
+  2. Added license assignment, ratification, and tenure section to specify when
+     and how is the license applied; AND
+  3. Added license termination section to specify when the license is
+     matured; AND
+  4. Added version controlled clause for continuous improvement; AND
+  5. Added sensitive data management and security coverage; AND
+  6. Structured known Rights to Use sections for easier parsing and referencing
+     (based on "Creative Common Licenses"); AND
+  7. Added non-contact "Rights to Use" clauses (example: as dataset for
+     training AI); AND
+  8. Added force manjure limitation of liabilities; AND
+  9. Added minimal agreed judiciary damage; AND
+  10. Added geographical indicator coverage; AND
+  11. Added designation indicator coverage; AND
+  12. Added protected geographical indicator coverage; AND
+  13. Added protected designation indicator coverage; AND
+  14. Added integrated circuit layout design use coverage; AND
+  15. Added industrial design use coverage; AND
+  16. Added trade secret use coverage; AND
+  17. Added trademark use coverage; AND
+  18. Applied "plainlanguage.gov" (https://plainlanguage.gov/guidelines/)
+      specifications; AND
+  19. Re-written from scratch by human with the only input provision assistance
+      from "Claude AI" (https://claude.ai/); AND
+  20. Addressed the modified and derived Products' renaming grey area issue; AND
+  21. Added statutory time limit for any legal claim; AND
+  22. Added QR code notice type for space constrained product display.
 
-  This repository was formerly known as
-  "(Holloway) Chew, Kean Ho's Proprietary License 1.0" but was renamed for
-  consistency purposes.
+  This repository was formerly known as the following but was renamed for
+  consistency purposes:
 
-  This repository is version controlled using "semantic versioning"
+  1. "(Holloway) Chew, Kean Ho's Proprietary License 1.0"
+
+  This project was initiated for 4 reasons:
+
+  1. As of year 2024, there isn't really a proprietary license for public
+     use; AND
+  2. Most non-commercial licenses are out-of-date and does not implement
+     automatic update to the license clauses aside from point-releasing; AND
+  3. Most commercial licenses are specific to its product or service rendering
+     not re-usable; AND
+  4. Most licenses are not clear about guidelines and a lot of the licenses
+     are too vague in its obligation coverage.
+
+  This license is version controlled using "semantic versioning"
   (https://semver.org/) definitions where:
 
-  (1) the "MAJOR" version denotes major legal changes; AND
-  (2) the "MINOR" version denotes minor changes without altering the legal
-      implication side of things such as but not limited to grammar correction,
-      fonts, typo, and etc; AND
-  (3) the "PATCH" version denotes the repository management changes such as but
-      not limited to new language addition, updating "README.md", and etc.
+  1. the "MAJOR" version denotes major legal changes; AND
+  2. the "MINOR" version denotes minor changes without altering the legal
+     implication side of things such as but not limited to grammar correction,
+     fonts, typo, and etc; AND
+  3. the "PATCH" version denotes the repository management changes such as but
+     not limited to new language addition, updating "README.md", and etc.
 
-  To use this license for your product licensing, you **MUST**, in layman terms,
-  consider the following as your recipient perpectives:
-
-  (1) You're only allowed to use for personal deployment as long as you:
-        (1.1) **SHALL** procure either given by or purchase the license grant
-              from the copyright owner in written document; AND
-        (1.2) **SHALL** only use within the specified terms and conditions
-              inside your grant; AND
-        (1.3) **SHALL** retain the copyright notices and effects of the product
-              you use, be it in its raw form (e.g. source codes) or its
-              produced form (compiled software binary files); AND
-        (1.4) **SHALL NOT** use the creators' name, brand, and trademark
-              without their written notices for any endorsement of your
-              pursue; AND
-        (1.5) **SHALL NOT OWN** any copy of the Product by deleting them all
-              from your posession if you do not have any procured license
-              grant; AND
-  (2) You're only allowed to use for commercial deployment as long as you:
-        (2.1) **SHALL** procure either given by or purchase the license grant
-              from the copyright owner in written document; AND
-        (2.2) **SHALL** only use within the specified terms and conditions
-              inside your grant; AND
-        (2.3) **SHALL** retain the copyright notices and effects of the product
-              you use, be it in its raw form (e.g. source codes) or its
-              produced form (compiled software binary files); AND
-        (2.4) **SHALL NOT** use the creators' name, brand, and trademark
-              without their written notices for any endorsement of your
-              pursue; AND
-        (2.5) **SHALL NOT OWN** any copy of the Product by deleting them all
-              from your posession if you do not have any procured license
-              grant; AND
-  (3) You're only allowed to edit/modify as long as you:
-        (3.1) **SHALL** procure either given by or purchase the license grant
-              from the copyright owner in written document; AND
-        (3.2) **SHALL** only use within the specified terms and conditions
-              inside your grant; AND
-        (3.3) **SHALL** retain the copyright notices and effects of the product
-              you use, be it in its raw form (e.g. source codes) or its
-              produced form (compiled software binary files); AND
-        (3.4) **SHALL NOT** use the creators' name, brand, and trademark
-              without their written notices for any endorsement of your
-              pursue; AND
-        (3.5) **SHALL NOT OWN** any copy of the Product by deleting them all
-              from your posession if you do not have any procured license
-              grant; AND
-  (4) You're only allowed to remix/remaster as long as you:
-        (4.1) **SHALL** procure either given by or purchase the license grant
-              from the copyright owner in written document; AND
-        (4.2) **SHALL** only use within the specified terms and conditions
-              inside your grant; AND
-        (4.3) **SHALL** retain the copyright notices and effects of the product
-              you use, be it in its raw form (e.g. source codes) or its
-              produced form (compiled software binary files); AND
-        (4.4) **SHALL NOT** use the creators' name, brand, and trademark
-              without their written notices for any endorsement of your
-              pursue; AND
-        (4.5) **SHALL NOT OWN** any copy of the Product by deleting them all
-              from your posession if you do not have any procured license
-              grant; AND
-  (5) You're only allowed to distribute as long as you:
-        (5.1) **SHALL** procure either given by or purchase the license grant
-              from the copyright owner in written document; AND
-        (5.2) **SHALL** only use within the specified terms and conditions
-              inside your grant; AND
-        (5.3) **SHALL** retain the copyright notices and effects of the product
-              you use, be it in its raw form (e.g. source codes) or its
-              produced form (compiled software binary files); AND
-        (5.4) **SHALL NOT** use the creators' name, brand, and trademark
-              without their written notices for any endorsement of your
-              pursue; AND
-        (5.5) **SHALL NOT OWN** any copy of the Product by deleting them all
-              from your posession if you do not have any procured license
-              grant; AND
-  (6) You're only allowed to re-distribute as long as you:
-        (6.1) **SHALL** procure either given by or purchase the license grant
-              from the copyright owner in written document; AND
-        (6.2) **SHALL** only use within the specified terms and conditions
-              inside your grant; AND
-        (6.3) **SHALL** retain the copyright notices and effects of the product
-              you use, be it in its raw form (e.g. source codes) or its
-              produced form (compiled software binary files); AND
-        (6.4) **SHALL NOT** use the creators' name, brand, and trademark
-              without their written notices for any endorsement of your
-              pursue; AND
-        (6.5) **SHALL NOT OWN** any copy of the Product by deleting them all
-              from your posession if you do not have any procured license
-              grant; AND
-  (7) You're only allowed to perform any miscellaneous rights not mentioned above
-      as long as you:
-        (7.1) **SHALL** procure either given by or purchase the license grant
-              from the copyright owner in written document; AND
-        (7.2) **SHALL** only use within the specified terms and conditions
-              inside your grant; AND
-        (7.3) **SHALL** retain the copyright notices and effects of the product
-              you use, be it in its raw form (e.g. source codes) or its
-              produced form (compiled software binary files); AND
-        (7.4) **SHALL NOT** use the creators' name, brand, and trademark
-              without their written notices for any endorsement of your
-              pursue; AND
-        (7.5) **SHALL NOT OWN** any copy of the Product by deleting them all
-              from your posession if you do not have any procured license
-              grant.
+  By default, the license is always using the latest and greatest. If you want
+  a specific version, download that license file and include it into your
+  product repository.
 message: |-
   Please cite and reference this repository accordingly.
 authors:
