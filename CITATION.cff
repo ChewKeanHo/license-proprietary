@@ -2,7 +2,7 @@ cff-version: "1.2.0"
 type: "software"
 date-released: "2024-09-26"
 title: "(Holloway) Chew, Kean Ho's Proprietary License"
-version: "5.0.0"
+version: "5.1.0"
 license: "CC-BY-ND-4.0"
 repository: "https://github.com/ChewKeanHo/license-proprietary"
 repository-code: "https://github.com/ChewKeanHo/license-proprietary"
@@ -81,7 +81,18 @@ abstract: |-
   a specific version, download that license file and include it into your
   product repository.
 message: |-
-  Please cite and reference this repository accordingly.
+  Copyright [YEAR] [FULL_LEGAL_NAME] [CONTACT_LIKE_EMAIL_ADDRESS]
+
+
+  Licensed under (Holloway) Chew, Kean Ho’s Proprietary License (the "License").
+  You must comply with the license to use the content. Get the License at:
+
+                     https://doi.org/10.5281/zenodo.13767361
+
+  DO NOT SOURCE, USE, READ, MODIFY, REPRODUCE, DISTRIBUTE, RE-DISTRIBUTE,
+  REVERSE ENGINEER, OR ANY OTHER ACTIONS WITH ANY PART OF THE CONTENT WITHOUT
+  WRITTEN AND RATIFIED CONSENT from the copyright owners, unless the license
+  explicitly allowing it.
 authors:
   - given-names: "Kean Ho"
     family-names: "Chew"
