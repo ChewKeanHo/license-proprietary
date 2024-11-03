@@ -5,7 +5,7 @@ ID:
 chewkeanho-license-proprietary
 
 Version:
-v5.1.0
+v5.2.0
 
 Authored & Reviewed By:
 (Holloway) Chew, Kean Ho <hello@hollowaykeanho.com>
@@ -21,20 +21,20 @@ execution of actions outlined in the
 
 PARTIES
   1. “PRINCIPALS”: The primary entities that create and provide this Product
-     as defined in this Covenant; including the product owners, developers,
-     and primary service providers.
+                   as defined in this Covenant; including the product owners,
+                   developers, and primary service providers.
   2. “CONTRIBUTORS”: All entities that provide contributions to improve the
-     Product whether directly solicited by the PRINCIPALS or otherwise;
-     including open-source contributors, third-party developers, or any
-     other entities.
-  3. “CONCIERGES”: All entities providing Services as defined in this
-     Covenant for facilitating the Product; including logistic delivery,
-     maintenance, and training.
+                     Product whether directly solicited by the PRINCIPALS or
+                     otherwise; including open-source contributors,
+                     third-party developers, or any other entities.
+  3. “CONCIERGES”: All entities providing Services as defined in this Covenant
+                   for facilitating the Product; including logistic delivery,
+                   maintenance, and training.
   4. “CLIENT”: YOU, the individual or entity legally authorized to use the
-     Product subject to these terms and conditions.
+               Product subject to these terms and conditions.
 
-(PRINCIPALS, CONTRIBUTORS, and CONCIERGES must be collectively referred to
-as “Provisioning Parties”)
+(PRINCIPALS, CONTRIBUTORS, and CONCIERGES must be collectively referred to as
+“Provisioning Parties”)
 (CLIENT must be collectively referred to as “Receiving Parties”)
 (the Provisioning Parties and the Receiving Parties must be collectively
 referred to as “Parties”)
@@ -55,8 +55,8 @@ THE PARTIES HEREBY ACKNOWLEDGE, AGREE, AND RATIFY as follows:
       and vice versa.
   1.3 Time is of the essence in this Covenant.
   1.4 Capitalized terms must have the meanings assigned to them in this
-      Covenant or, where unspecified, the meanings generally accepted in the
-      relevant industry context.
+      Covenant or, where unspecified, the meanings generally accepted in
+      the relevant industry context.
 
 "Covenant" means the legally binding terms and conditions in this document
 agreed upon by You and Us which can be a contract, license, agreement,
@@ -77,8 +77,8 @@ application binary interface (ABI), and piping valves control room.
 
 "Notice" means any official written communication that conveys information,
 requests action, or has legal significance; including, without limitation,
-bills, receipts, demands, summonses, messages, recordings, archives, and
-other legal documents.
+bills, receipts, demands, summonses, messages, recordings, archives,
+and other legal documents.
 
 "PDPA" means the personal data protection laws applicable in Your and Our
 respective countries of operation and residence; including,
@@ -95,12 +95,11 @@ offer; including, without limitation, software, hardware, design files,
 consumables, and professional services.
 
 "Right to Use" means a legal permission granted in writing by the owners
-to utilize specific assets or intellectual properties under ratified
-terms.
+to utilize specific assets or intellectual properties under ratified terms.
 
 "Sensitive Data" means protected information requiring safeguards against
 unauthorized disclosure; including, without limitation,
-personally identifiable information, authentication credentials,
+personal identifiable information, authentication credentials,
 and financial data.
 
 "Service" means any customer-related activities provided by Us or third
@@ -134,8 +133,8 @@ subsidiaries, affiliates, or successors.
       successors in title, personal representatives, executors,
       and administrators.
   2.6 This Covenant must be binding upon You, becomes effective, and remain
-      in force until terminated from the earliest occurrence of any
-      specified action herein:
+      in force until terminated from the earliest occurrence of any specified
+      action herein:
         2.6.1 fulfilling checkbox during form submission via any of Our
               Interfaces; OR
         2.6.2 procuring the Product through any means regardless of Our
@@ -153,20 +152,21 @@ subsidiaries, affiliates, or successors.
               or reverse engineering; OR
         2.6.7 using the Product directly or indirectly regardless of the
               legal contactability of the usage method, including,
-              without limitation, as training data for artificial intelligence
-              or neural networks.
+              without limitation, as training data for artificial
+              intelligence or neural networks.
   2.7 You may not assign or novate, in whole or in part, any rights or
       obligations under this Covenant without Our prior written consent.
   2.8 We reserve the right to assign or novate this Covenant, in whole or
       in part, to any third party by issuing written Notice without Your
       prior consent.
   2.9 In lieu with Clause 2.8, You must direct all subsequent payments and
-      fulfill all obligations to Us or Our assignee as specified in Our Notice.
+      fulfill all obligations to Us or Our assignee as specified in Our
+      Notice.
 
 
 3 Covenant Suspension & Termination
-  3.1 This Covenant may be terminated or suspended by either Party, effective
-      upon the earliest occurrence of any of the following events:
+  3.1 This Covenant may be terminated or suspended by either Party,
+      effective upon the earliest occurrence of any of the following events:
         3.1.1 We receive a valid, duly executed, and ratified written Notice
               referencing this Covenant from You; OR
         3.1.2 We cancel, withdraw, terminate, or suspend Your account at Our
@@ -178,8 +178,8 @@ subsidiaries, affiliates, or successors.
 
 
 4 The Product
-  4.1 This Covenant is written in language primarily for comprehension by the
-      youngest legally responsible members of the general public.
+  4.1 This Covenant is written in language primarily for comprehension by
+      the youngest legally responsible members of the general public.
   4.2 You must use the Product only as specified in the “Personal Use Rights”
       section, “Academic Use Rights” section, commercial use part of the
       “Commercialization Rights” section, or as authorized by Our written
@@ -215,15 +215,15 @@ subsidiaries, affiliates, or successors.
   4.10 You must only earn income or other non-monetary benefits from the
        Product as specified in the “Commercialization Rights” section or as
        authorized by Our written consent; including, without limitation,
-       advertising revenue, resell profits, marketing publicity and
-       brand awareness.
+       advertising revenue, resell profits, marketing publicity and brand
+       awareness.
   4.11 You must obtain Our written consent before proceeding for any
        miscellaneous Right to Use.
   4.12 You can find the payment terms, pricing structures, benefits,
        restrictions, and execution guidelines in the written consent We
        provided whenever applicable.
-  4.13 You must utilize the Product solely for their intended purposes and in
-       compliance with Your and Our applicable laws and regulations.
+  4.13 You must utilize the Product solely for their intended purposes and
+       in compliance with Your and Our applicable laws and regulations.
   4.14 You must be responsible for procuring and maintaining all additional
        assets required for the use of the Product.
   4.15 You must implement reasonable measures to prevent unauthorized or
@@ -255,8 +255,8 @@ subsidiaries, affiliates, or successors.
   5.1 We generate and temporarily store unique identifiers to track Your
       current use of Our Product and implement the required end-to-end
       communication security measures when applicable; including,
-      without limitation, cookies on website, device ID token, and
-      session ID tokens.
+      without limitation, cookies on website, device ID token,
+      and session ID tokens.
   5.2 In lieu with Clause 5.1, these unique identifiers are reset when Your
       logout from the Product.
   5.3 You must implement reasonable measures to protect Your Sensitive Data
@@ -278,13 +278,13 @@ subsidiaries, affiliates, or successors.
       maintain the data protection standards comparable to Your and Our PDPA.
   5.9 We do implement and maintain current industry-standard security
       measures to protect Your Sensitive Data, both at rest and in transit.
-  5.10 We cannot guarantee the absolute prevention of unauthorized access or
-       accidental disclosure Your Sensitive Data, even when We use reasonable
-       protection measures.
+  5.10 We cannot guarantee the absolute prevention of unauthorized access
+       or accidental disclosure Your Sensitive Data, even when We use
+       reasonable protection measures.
   5.11 We can refuse to communicate through any channels or to decline
-       shipment to certain addresses at Our discretion in order to protect You
-       from potential compromises; including, without limitation, fraudulent
-       transactions or identity theft.
+       shipment to certain addresses at Our discretion in order to protect
+       You from potential compromises; including, without limitation,
+       fraudulent transactions or identity theft.
   5.12 Pursuant to this Covenant, We collect and process Your Sensitive Data
        for the following purposes:
          5.12.1 maintaining customer relationship with You, including,
@@ -307,31 +307,30 @@ subsidiaries, affiliates, or successors.
                 or illegal activities; AND
          5.12.7 facilitating Our performance and enforcement of obligations
                 under any covenant to which We are a party; AND
-         5.12.8 conducting background checks and verification procedures
-                as part of Our employment application process, where
-                applicable.
+         5.12.8 conducting background checks and verification procedures as
+                part of Our employment application process, where applicable.
 
 
 6 Copyrights and Properties Ownership
-  6.1 We and the applicable third parties retain all copyrights in
-      materials and content in this Product.
+  6.1 We and the applicable third parties retain all copyrights in materials
+      and content in this Product.
   6.2 In lieu with Clause 6.1, these materials and contents are protected
       by copyright.
   6.3 You must obtain Our and the relevant third parties prior written and
-      ratified consent before engaging in any action involving the
-      materials and contents; including, without limitation, sourcing,
-      using, copying, modifying, remastering, reproducing, storing,
-      transmitting, reacting, distributing, or re-distributing.
+      ratified consent before engaging in any action involving the materials
+      and contents; including, without limitation, sourcing, using, copying,
+      modifying, remastering, reproducing, storing, transmitting, reacting,
+      distributing, or re-distributing.
 
 
 7 Trademarks and Identifiers
-  7.1 You are not authorized to use any registered identifiers belonged to
-      Us or any other entity unless You obtained prior written consent from
-      the respective owners; including, without limitation, trade names,
+  7.1 You are not authorized to use any registered identifiers belonged to Us
+      or any other entity unless You obtained prior written consent from the
+      respective owners; including, without limitation, trade names,
       trademarks, service marks, product names, legal names,
       geographical indicators (GI), designation indicators (DI),
-      protected geographical indicator (PGI), and protected designation
-      indicators (PDI).
+      protected geographical indicator (PGI), and
+      protected designation indicators (PDI).
   7.2 Pursuant to Clause 7.1, You may use these identifiers only to describe
       their respective origin without implying any endorsement or affiliation.
 
@@ -347,9 +346,9 @@ subsidiaries, affiliates, or successors.
 
 9 Limitation of Liability
   9.1 You must indemnify Us against all damages, losses, and expenses
-      (including, without limitation, direct, indirect, special,
-      incidental, and consequential damages) arising from or in connection
-      with any of the following:
+      (including, without limitation, direct, indirect, special, incidental,
+      and consequential damages) arising from or in connection with any of
+      the following:
         9.1.1 this Covenant, including Your violations;
         9.1.2 Your modifications and derivatives works to the Product;
         9.1.3 Your distribution and redistribution activities;
@@ -373,7 +372,7 @@ subsidiaries, affiliates, or successors.
                 9.1.5.15 negligence,
                 9.1.5.16 loss of data or profits;
         9.1.6 force majeure events beyond Our control, including,
-               without limitation:
+              without limitation:
                 9.1.6.1 acts of God,
                 9.1.6.2 natural disasters,
                 9.1.6.3 civil unrest,
@@ -385,9 +384,9 @@ subsidiaries, affiliates, or successors.
                 9.1.6.8 labor strikes,
                 9.1.6.9 industrial disputes,
                 9.1.6.10 fire;
-        9.1.7 fraudulent or dishonest conduct by any third party, even if we
-              or our representatives have been notified of the potential for
-              such damages, including, without limitation:
+        9.1.7 fraudulent or dishonest conduct by any third party, even if
+              we or our representatives have been notified of the potential
+              for such damages, including, without limitation:
                 9.1.7.1 hacking,
                 9.1.7.2 phishing,
                 9.1.7.3 link redirection initiated by You,
@@ -395,10 +394,9 @@ subsidiaries, affiliates, or successors.
                         or unknowingly);
         9.1.8 unauthorized access to or inadvertent disclosure of Your
               Sensitive Data.
-  9.2 Pursuant to Clause 9.1 and its sub-clauses, the indemnification
-      applies under all legal theories, including tort, negligence,
-      and contract, unless required otherwise by applicable law or agreed
-      to in writing.
+  9.2 Pursuant to Clause 9.1 and its sub-clauses, the indemnification applies
+      under all legal theories, including tort, negligence, and contract,
+      unless required otherwise by applicable law or agreed to in writing.
   9.3 When filing any types of legal claim, any Party must file within the
       time limit whichever longer:
         9.3.1 as specified by the applicable limitation laws in their
@@ -417,8 +415,8 @@ subsidiaries, affiliates, or successors.
       the date of this Covenant’s ratification, for any litigation arising
       from your breach of these terms.
   9.7 Pursuant to Clause 9.6, this amount is due upon the filing of
-      litigation and is subject to increase as deemed appropriate,
-      except when overruled by the court.
+      litigation and is subject to increase as deemed appropriate, except
+      when overruled by the court.
 
 
 10 Personal Use Rights
@@ -449,8 +447,8 @@ subsidiaries, affiliates, or successors.
 
 
 11 Academic Use Rights
-  11.1 You must obtain Our written consent before using the Product for
-       any academic or research purposes.
+  11.1 You must obtain Our written consent before using the Product for any
+       academic or research purposes.
   11.2 Solely under these Rights to Use, with Our written consent, You:
          11.2.1 can use the Product “as it is” only through its designated
                 Interface in your academic pursue; AND
@@ -462,45 +460,44 @@ subsidiaries, affiliates, or successors.
        You obtained.
   11.4 You must use the Product only in Your academic research and
        residential spaces, properties, and vehicles.
-  11.5 Your “Academic Use Rights” terminate immediately upon Your
-       graduation or ending your academic affiliation.
-  11.6 Pursuant to Clause 11.5, You may request Us to change Your
-       existing “Academic Use Rights” into “Personal Use Rights” or
+  11.5 Your “Academic Use Rights” terminate immediately upon Your graduation
+       or ending your academic affiliation.
+  11.6 Pursuant to Clause 11.5, You may request Us to change Your existing
+       “Academic Use Rights” into “Personal Use Rights” or
        “Commercialization Rights” for continuing using the Product.
-  11.7 All academic usages must comply with applicable laws and
-       regulations in the operating jurisdictions; including,
-       without limitation, copyright, trademark, commercial,
+  11.7 All academic usages must comply with applicable laws and regulations
+       in the operating jurisdictions; including, without limitation,
+       copyright, trademark, commercial, environmental protection,
+       public safety, waste management, chemical safety, occupational safety,
+       and energy management.
+
+
+12 Restoration Rights
+  12.1 You must obtain Our written consent before performing any restoration
+       for the procured Product.
+  12.2 Solely under these Rights to Use, with Our written consent, You can
+       only calibrate the Product or use its self-repair functionalities
+       through its designated usable Interface.
+  12.3 For any restoration beyond Clause 12.2 provision, You must comply to
+       other Rights to Use sections and Our written consent.
+  12.4 You must restore the Product only in secure workspace You own or
+       legally control.
+  12.5 All restoration works must comply with applicable laws and regulations;
+       including, without limitation, copyright, trademark, commercial,
        environmental protection, public safety, waste management,
        chemical safety, occupational safety, and energy management.
 
 
-12 Restoration Rights
-  12.1 You must obtain Our written consent before performing any
-       restoration for the procured Product.
-  12.2 Solely under these Rights to Use, with Our written consent, You
-       can only calibrate the Product or use its self-repair
-       functionalities through its designated usable Interface.
-  12.3 For any restoration beyond Clause 12.2 provision, You must comply
-       to other Rights to Use sections and Our written consent.
-  12.4 You must restore the Product only in secure workspace You own or
-       legally control.
-  12.5 All restoration works must comply with applicable laws and
-       regulations; including, without limitation, copyright, trademark,
-       commercial, environmental protection, public safety, waste management,
-       chemical safety, occupational safety, and energy management.
-
-
 13 Modification Rights
-  13.1 You must obtain Our written consent before performing any
-       modification to the Product.
-  13.2 Solely under these Rights to Use, without Our written consent,
-       You may:
+  13.1 You must obtain Our written consent before performing any modification
+       to the Product.
+  13.2 Solely under these Rights to Use, without Our written consent, You may:
          13.2.1 apply removable labels to the blank area of the Product
                 without misrepresenting, obscuring, or removing existing
                 vital information; AND
          13.2.2 when applicable, resize the Product proportionally
-                maintaining its original dimensional ratios for
-                presentation purposes only.
+                maintaining its original dimensional ratios for presentation
+                purposes only.
   13.3 You can modify the Product only in ways specified in Our written
        consent.
   13.4 You bear full responsibilities for violating Clause 13.3, which may
@@ -514,13 +511,13 @@ subsidiaries, affiliates, or successors.
   13.7 Subject to this Covenant’s terms, You may submit Your modification
        works in Source Form that We can integrate into the Product without
        further assistance from You.
-  13.8 Pursuant to Clause 13.7, We can request from You and failure to
-       comply may result in legal action.
+  13.8 Pursuant to Clause 13.7, We can request from You and failure to comply
+       may result in legal action.
 
 
 14 Derivative Rights
-  14.1 You must obtain Our written consent before deriving anything from
-       the Product.
+  14.1 You must obtain Our written consent before deriving anything from the
+       Product.
   14.2 You can derive based on the Product only in ways specified in Our
        written consent.
   14.3 You must perform all Your derivative works in secure workspace You
@@ -529,57 +526,56 @@ subsidiaries, affiliates, or successors.
        regulations; including, without limitation, copyright, trademark,
        environmental protection, public safety, waste management,
        chemical safety, occupational safety, and energy management.
-  14.5 Subject to this Covenant’s terms, You may submit Your derivative
-       works in Source Form that We can integrate into the Product without
-       further assistance from You.
-  14.6 Pursuant to Clause 13.7, We can request from You and failure to
-       comply may result in legal action.
+  14.5 Subject to this Covenant’s terms, You may submit Your derivative works
+       in Source Form that We can integrate into the Product without further
+       assistance from You.
+  14.6 Pursuant to Clause 13.7, We can request from You and failure to comply
+       may result in legal action.
 
 
 15 Representation Rights
-  15.1 You must not claim any affiliation with or recognition from Us or
-       the Product without Our written consent, as such claims constitute
+  15.1 You must not claim any affiliation with or recognition from Us or the
+       Product without Our written consent, as such claims constitute
        impersonation and identity fraud.
   15.2 You must obtain Our prior written consent and follow our specific
        instructions before representing or promoting the Product even as
        Our affiliated entity.
-  15.3 You must get Our written permission before reacting or reviewing
-       the Product in any way except as allowed by Fair Use.
-  15.4 Your reviews and reactions content must contain at least 80% of
-       Your unique analysis, commentary, or critique, clearly different
-       from the Product and its marketing materials.
+  15.3 You must get Our written permission before reacting or reviewing the
+       Product in any way except as allowed by Fair Use.
+  15.4 Your reviews and reactions content must contain at least 80% of Your
+       unique analysis, commentary, or critique, clearly different from the
+       Product and its marketing materials.
   15.5 To comply with Clause 15.4, You must not commit actions which may
-       constitute copyright infringement, including, without limitation:
+       constitute copyright infringement; including, without limitation:
          15.5.1 copy or slightly change the Product's content; OR
          15.5.2 narrate the Product’s content; OR
-         15.5.3 only record emotional reactions while presenting the
-                Product’s content.
+         15.5.3 only record emotional reactions while presenting the Product’s
+                content.
   15.6 Your reviews and reactions content must not harm anyone's reputation
-       in any form, including through libel or slander.
-  15.7 You must obtain prior written consent independently from the owners
-       of all intellectual properties (such as music, images, or text)
-       before using it in Your reviews or reactions content, including any
-       elements from the Product or its marketing materials.
+       in any form; including, without limitation, through libel or slander.
+  15.7 You must obtain prior written consent independently from the owners of
+       all intellectual properties (such as music, images, or text) before
+       using it in Your reviews or reactions content; including any elements
+       from the Product or its marketing materials.
 
 
 16 Distribution Rights
   16.1 You must obtain Our written consent before implementing any policies
        for distributing the Product or its derivatives.
   16.2 Solely under these Rights to Use, with Our written consent, You must:
-         16.2.1 rename Your modified or derived products to prevent
-                confusion with the original without implying any endorsement
-                or affiliation, including, without limitation, adding your
-                name or work attribution in its existing name; AND
-         16.2.2 include this same exact Covenant with all distributed
-                original and unmodified Product; AND
+         16.2.1 rename Your modified or derived products to prevent confusion
+                with the original without implying any endorsement or
+                affiliation, including, without limitation, adding your name
+                or work attribution in its existing name; AND
+         16.2.2 include this same exact Covenant with all distributed original
+                and unmodified Product; AND
          16.2.3 preserve all creators' credits and attributions of Covenant
                 materials; AND
          16.2.4 add Yourself as a creator for all your modifications or
                 derivative products; AND
-         16.2.5 display the Covenant Notice prominently in the first
-                visible area, complying to all safety and legal
-                requirements; AND
-        16.2.6 any additional policies from Our written consent.
+         16.2.5 display the Covenant Notice prominently in the first visible
+                area, complying to all safety and legal requirements; AND
+         16.2.6 any additional policies from Our written consent.
   16.3 Any distribution activities must comply with all applicable laws and
        regulations; including, without limitation, copyright, trademark,
        commercial, environmental protection, public safety, waste management,
@@ -587,8 +583,8 @@ subsidiaries, affiliates, or successors.
 
 
 17 Redistribution Rights
-  17.1 You must obtain Our written consent before you sell, retail,
-       transfer, or ship the Product and its derivatives.
+  17.1 You must obtain Our written consent before you sell, retail, transfer,
+       or ship the Product and its derivatives.
   17.2 You must only distribute the Product, be it original, modified,
        or its derivatives, that are fully complaint with all terms in the
        "Distribution Rights" section.
@@ -600,14 +596,15 @@ subsidiaries, affiliates, or successors.
        intact after removal of your additional exterior packaging.
   17.5 All redistribution activities must comply with applicable laws and
        regulations; including, without limitation, copyright, trademark,
-       commercial, environmental protection, public safety, waste management,
-       chemical safety, occupational safety, and energy management.
+       commercial, environmental protection, public safety,
+       waste management, chemical safety, occupational safety,
+       and energy management.
 
 
 18 Integrated Circuit Layout Design Use Rights
   18.1 This Covenant does not grant any Rights to Use any registered
        Integrated Circuit Layout Design components from the Product.
-  18.2 You must obtain the intellectual properties’ owners and Our written
+  18.2 You must obtain the intellectual property owners’ and Our written
        consent before using any registered Integrated Circuit Layout Design
        components from the Product.
 
@@ -615,41 +612,40 @@ subsidiaries, affiliates, or successors.
 19 Industrial Design Use Rights
   19.1 This Covenant does not grant any Rights to Use any registered
        Industrial Design components from the Product.
-  19.2 You must obtain the intellectual properties’ owners and Our written
+  19.2 You must obtain the intellectual property owners’ and Our written
        consent before using any registered Industrial Design components
        from the Product.
 
 
 20 Patent Use Rights
-  20.1 This Covenant does not grant any Rights to Use any patented
-       components from the Product.
-  20.2 You must obtain the intellectual properties’ owners and Our written
+  20.1 This Covenant does not grant any Rights to Use any patented components
+       from the Product.
+  20.2 You must obtain the intellectual property owners’ and Our written
        consent before using any patented components from the Product.
 
 
 21 Trade Secret Use Rights
   21.1 This Covenant does not grant any Rights to Use any trade secret
        components from the Product.
-  21.2 You must obtain the intellectual properties’ owners and Our written
+  21.2 You must obtain the intellectual property owners’ and Our written
        consent before using any Trade Secret components from the Product.
   21.3 You must delete all copies of the Product and its derivatives
        containing the trade secrets components to protect yourself from
-       potential data breach accusations except when you have valid
-       written consent.
+       potential data breach accusations except when you have valid written
+       consent.
 
 
 22 Commercialization Rights
-  22.1 You must obtain Our written consent before using the Product for
-       any profit-making activity, commercial purpose, or to gain any
-       non-monetary benefits; including, without limitation, publicity,
-       or brand awareness.
-  22.2 All commercialization activities must comply with applicable laws
-       and regulations in the operating jurisdictions; including copyright,
+  22.1 You must obtain Our written consent before using the Product for any
+       profit-making activity, commercial purpose, or to gain any non-monetary
+       benefits; including, without limitation, publicity, or brand awareness.
+  22.2 All commercialization activities must comply with applicable laws and
+       regulations in the operating jurisdictions; including copyright,
        trademark, commercial, environmental protection, public safety,
        waste management, chemical safety, occupational safety,
        and energy management.
-  22.3 You can find the payment terms, discount rates, pricing, and
-       execution guidelines in the written consent We provided.
+  22.3 You can find the payment terms, discount rates, pricing, and execution
+       guidelines in the written consent We provided.
   22.4 Solely under these Rights to Use, with Our written consent, You can
        use the Product:
          22.4.1 "as it is" only through its designated Interfaces for Your
@@ -680,5 +676,5 @@ explicitly allowing it.
 --------------------------------------------------------------------------------
   23.2 Pursuant to Clause 23.1, You should enclose the notice using the
        correct comment syntax for the file format or package.
-  23.3 We recommend including the Covenant file or class name on the same
-       page as the Notice to aid identification in third-party archives.
+  23.3 We recommend including the Covenant file or class name on the same page
+       as the Notice to aid identification in third-party archives.
