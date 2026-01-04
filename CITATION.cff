@@ -1,102 +1,123 @@
 cff-version: "1.2.0"
-type: "software"
-date-released: "2024-09-26"
+type: "dataset"
+date-released: "2024-09-16"
 title: "(Holloway) Chew, Kean Ho's Proprietary License"
 version: "5.2.0"
 license: "CC-BY-ND-4.0"
 repository: "https://github.com/ChewKeanHo/license-proprietary"
 repository-code: "https://github.com/ChewKeanHo/license-proprietary"
 repository-artifact: "https://github.com/ChewKeanHo/license-proprietary/releases"
-url: "https://zenodo.org/doi/10.5281/zenodo.13767361"
+url: "https://doi.org/10.5281/zenodo.13767361"
 contact:
   - affiliation: "(Holloway) Chew, Kean Ho"
-    email: "hello@hollowaykeanho.com"
-    website: "https://www.hollowaykeanho.com"
+    email: "hello@chewkeanho.com"
+    website: "https://www.chewkeanho.com"
 abstract: |-
-  A published baseline proprietary license targeting publicly obtainable,
-  commercial, and proprietor product licensing needs. This license adopted from
-  "Open Source Initiative's Apache 2.0 License"
-  (https://opensource.org/license/apache-2-0) software license and
-  "Creative Common Licenses" (https://creativecommons.org/) product license as
-  its baseline and applied the following changes matching the current timeline:
+  > [!CAUTION]
+  >
+  > This agreement was **DRAFTED BY A SOFTWARE DEVELOPER** based on his past
+  > experiences with productization, legal documents processing, and legal
+  > knowledge.
+  >
+  > Please **NEVER ASSUME. CONSULT AN ATTORNEY/LAWYER FOR FEASTABILITY**
+  > catering your exact needs.
 
-  1. Changed "Software" to "Product" so that the license can be expanded to
-     non-software product licensing uses (e.g. graphics, video, manufacturing
-     design, audio, etc) without needing to spin multiple outbound licenses; AND
-  2. Added license assignment, ratification, and tenure section to specify when
-     and how is the license applied; AND
-  3. Added license termination section to specify when the license is
-     matured; AND
-  4. Added version controlled clause for continuous improvement; AND
-  5. Added sensitive data management and security coverage; AND
-  6. Structured known Rights to Use sections for easier parsing and referencing
-     (based on "Creative Common Licenses"); AND
-  7. Added non-contact "Rights to Use" clauses (example: as dataset for
-     training AI); AND
-  8. Added force manjure limitation of liabilities; AND
-  9. Added minimal agreed judiciary damage; AND
-  10. Added geographical indicator coverage; AND
-  11. Added designation indicator coverage; AND
-  12. Added protected geographical indicator coverage; AND
-  13. Added protected designation indicator coverage; AND
-  14. Added integrated circuit layout design use coverage; AND
-  15. Added industrial design use coverage; AND
-  16. Added trade secret use coverage; AND
-  17. Added trademark use coverage; AND
-  18. Applied "plainlanguage.gov" (https://plainlanguage.gov/guidelines/)
-      specifications; AND
-  19. Re-written from scratch by human with the only input provision assistance
-      from "Claude AI" (https://claude.ai/); AND
-  20. Addressed the modified and derived Products' renaming grey area issue; AND
-  21. Added statutory time limit for any legal claim; AND
-  22. Added QR code notice type for space constrained product display.
+  A productization license specifically designed for proprietary use of content
+  regardless of personal use or commercial use. This is a continuous research
+  project's bi-product usable for anyone and everyone.
+
+  It is an adoption from the following licenses:
+
+  1. [Open Source Initiative's Apache 2.0 License](https://opensource.org/license/apache-2-0); AND
+  2. [Creative Common Licenses](https://creativecommons.org/); AND
+  3. [BSD Licenses](https://en.wikipedia.org/wiki/BSD_licenses).
+
+  To comply with [PlainLanguage.gov](https://plainlanguage.gov/guidelines/), you
+  **MUST READ THE LICENSE FILE DIRECTLY**. It must be easily readable for any
+  general public audience without assistance.
+
+  If you cannot parse or could not understand any part of the license, that
+  means the license has not fully achieve the guideline yet. In that case,
+  please file a
+  [query issue](https://github.com/ChewKeanHo/license-liberal/issues).
 
   This repository was formerly known as the following but was renamed for
   consistency purposes:
 
-  1. "(Holloway) Chew, Kean Ho's Proprietary License 1.0"
+  1. `(Holloway) Chew, Kean Ho's Proprietary License 1.0`
 
-  This project was initiated for 4 reasons:
+  The project was initiated mainly for:
 
-  1. As of year 2024, there isn't really a proprietary license for public
-     use; AND
-  2. Most non-commercial licenses are out-of-date and does not implement
-     automatic update to the license clauses aside from point-releasing; AND
-  3. Most commercial licenses are specific to its product or service rendering
-     not re-usable; AND
-  4. Most licenses are not clear about guidelines and a lot of the licenses
-     are too vague in its obligation coverage.
+  1. As of year 2024, most legal documents are too specific (e.g. applied to
+     software but not images and vice versa) making a lot of product-based
+     project inheriting mulitple licenses unnecessarily; AND
+  2. Some legal documents' communities are too dramatic for queries; AND
+  3. Most legal documents are written in legal-specific languages only lawyer
+     can understand rather than written in simple native language
+     comprehensible by everyone; AND
+  4. A lot of legal documents cannot be iteratively improved with respect to
+     time and market conditions; AND
+  5. There is a need for a far more liberal license meant for commodity or
+     critical products (example: software kernel libraries) that are compatible
+     with any other licenses similar to `0BSD` and `CC0` but not public domain.
+  6. Most licenses did not cope for generative uses (as in
+     "learn-digest-generate") which has Copyright laundering effects (seems like
+     Copyright infrigement but the outputs are not).
 
-  This license is version controlled using "semantic versioning"
-  (https://semver.org/) definitions where:
+  This legal document is version controlled using
+  [semantic versioning](https://semver.org/) defined as follows:
 
-  1. the "MAJOR" version denotes major legal changes; AND
-  2. the "MINOR" version denotes minor changes without altering the legal
-     implication side of things such as but not limited to grammar correction,
-     fonts, typo, and etc; AND
-  3. the "PATCH" version denotes the repository management changes such as but
-     not limited to new language addition, updating "README.md", and etc.
+  1. **MAJOR number** - denotes major non-backward compatible changes; AND
+  2. **MINOR number** - denotes major backward compatible changes including
+     without limited to grammar corrections, fonts, typo, and etc; AND
+  3. **PATCH number** - denotes minor backward comaptible changes including
+     without limited to updating repository `README.md`, changes of publication
+     system, and etc.
 
-  By default, the license is always using the latest and greatest. If you want
-  a specific version, download that license file and include it into your
-  product repository.
+  By default, this document is designed to **ALWAYS USE THE LATEST AND
+  GREATEST**. For any project repository, you only need to include the notice as
+  its legal document into your repository (e.g. as `LICENSE.txt`).
+
+  If your project repository requires only a specific version, **THEN YOU NEED
+  TO DOWNLOAD THAT VERSION FULL DOCUMENT AND INCLUDE THE NOTICE** (e.g. as
+  `LICENSE.txt`).
+
+  This document is written for comply with:
+
+  1. **[US Plain Language Goverment Guideline](https://plainlanguage.gov/guidelines/)** -
+     making legal friendly to any general public without assistances.
+
+  Currently, this document is written for the following languages:
+
+  1. International English (`en`)
+
+  These are the official stewards:
+
+  1. **[(Holloway) Chew, Kean Ho](https://chewkeanho.com)** - principal author
+     and reviewer.
+
+  These are the folks who indirectly improve this license upto a considerable
+  quality either by resources sharing or scanning:
+
+  1. **[Bruce Payne](https://perens.com/)** - for relentlessly providing license
+     drafting guidances and emotional positivity.
+  2. **Chua, Yee Soong** - for guiding over Malaysia's legal acumen and
+     resources.
 message: |-
   Copyright [YEAR] [FULL_LEGAL_NAME] [CONTACT_LIKE_EMAIL_ADDRESS]
 
 
-  Licensed under (Holloway) Chew, Kean Ho’s Proprietary License (the "License").
+  Licensed under (Holloway) Chew, Kean Ho's Prorpietary License (the "License").
   You must comply with the license to use the content. Get the License at:
 
-                     https://doi.org/10.5281/zenodo.13767361
+  https://doi.org/10.5281/zenodo.13767361
 
-  DO NOT SOURCE, USE, READ, MODIFY, REPRODUCE, DISTRIBUTE, RE-DISTRIBUTE,
-  REVERSE ENGINEER, OR ANY OTHER ACTIONS WITH ANY PART OF THE CONTENT WITHOUT
-  WRITTEN AND RATIFIED CONSENT from the copyright owners, unless the license
-  explicitly allowing it.
+  You MUST ensure any interaction with the content STRICTLY COMPLIES with the
+  permissions and limitations set forth in the license.
 authors:
   - given-names: "Kean Ho"
     family-names: "Chew"
-    email: "hello@hollowaykeanho.com"
+    email: "hello@chewkeanho.com"
     affiliation: "Independent"
     orcid: "https://orcid.org/0000-0003-4202-4863"
 identifiers:
@@ -104,6 +125,12 @@ identifiers:
     value: "10.5281/zenodo.13767361"
     description: "General & Latest"
 keywords:
-  - "Product"
-  - "License"
-  - "Proprietary"
+  - "product"
+  - "proprietary license"
+  - "license"
+  - "permissive"
+  - "legal"
+  - "continuously improved researches"
+  - "self-improve independences"
+  - "independent research"
+  - "researches"
